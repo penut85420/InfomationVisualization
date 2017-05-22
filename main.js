@@ -4,7 +4,8 @@ function foo1() {
 
 function foo2() {
 	// do foo2;
-	foo1();
+	for (var i = 0; i < 10; i++)
+		foo1();
 }
 
 function foo3() {
