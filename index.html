@@ -1,6 +1,19 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <title>逐場打擊率</title>
+</head>
+<body>
+    <div>
+    <select id="member" onchange="change(value)">
+        <option value="bro23">彭政閔</option>
+        <option value="bro16">周思齊</option>
+        <option value="bro77">鄭達鴻</option>
+    </select>
+    </div>
 <svg width="960" height="500"></svg>
-<script src="https://d3js.org/d3.v4.min.js"></script>
+</body>
 <script>
 var svg = d3.select("svg"),
     margin = {top: 20, right: 20, bottom: 30, left: 50},
@@ -20,40 +33,48 @@ var line = d3.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.close); });
 
-d3.tsv("data/bro23.txt", function(d) {
-  d.date = parseTime(d["DATE(GAME)"]);
-  d.close = +d.AVG;
-  return d;
-}, function(error, data) {
-  if (error) throw error;
+function change(value) {
+    svg.selectAll("#C").remove();
 
-  x.domain(d3.extent(data, function(d) { return d.date; }));
-  y.domain(d3.extent(data, function(d) { return d.close; }));
+    d3.tsv("data/" + value + ".txt", function(d) {
+        d.date = parseTime(d.DATE);
+        d.close = +d.AVG;
+        return d;
+    }, function(error, data) {
+    if (error) throw error;
 
-  g.append("g")
-      .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x))
-    .select(".domain")
-      .remove();
+    x.domain(d3.extent(data, function(d) { return d.date; }));
+    //y.domain(d3.extent(data, function(d) { return d.close; }));
+    y.domain([0, 0.5]);
+    
+    g.append("g")
+        .attr("id", "C")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x))
+        .select(".domain");
 
-  g.append("g")
-      .call(d3.axisLeft(y))
-    .append("text")
-      .attr("fill", "#000")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", "0.71em")
-      .attr("text-anchor", "end")
-      .text("Price ($)");
+    g.append("g")
+        .attr("id", "C")
+        .call(d3.axisLeft(y))
+        .append("text")
+        .attr("fill", "#000")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", "0.71em")
+        .attr("text-anchor", "end")
+        .text("AVG");
 
-  g.append("path")
-      .datum(data)
-      .attr("fill", "none")
-      .attr("stroke", "steelblue")
-      .attr("stroke-linejoin", "round")
-      .attr("stroke-linecap", "round")
-      .attr("stroke-width", 1.5)
-      .attr("d", line);
-});
-
+    g.append("path")
+        .datum(data)
+        .attr("id", "C")
+        .attr("fill", "none")
+        .attr("stroke", "steelblue")
+        .attr("stroke-linejoin", "round")
+        .attr("stroke-linecap", "round")
+        .attr("stroke-width", 1.5)
+        .attr("d", line);
+    });
+}
+change(document.getElementById("member").value);
 </script>
+</html>
