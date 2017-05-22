@@ -3,6 +3,9 @@ function foo1() {
 }
 
 function foo2() {
+	// do foo2;
+	foo1();
+}
 
 function foo3() {
 	foo2();
