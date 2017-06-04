@@ -1,0 +1,22 @@
+#info {
+  position: absolute;
+  top: 100px;
+  width: 200px;
+  text-align: center;
+} 
+
+#tw {
+  position: absolute;
+}
+
+input[type="range"] {
+  width: 300px;
+  height: 16px;
+  outline: none;
+  background: none;
+}
+
+#rail {
+  position: absolute;
+  margin-top: -1200px;
+}

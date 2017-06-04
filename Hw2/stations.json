@@ -1,0 +1,8251 @@
+{
+	"type": "Topology",
+	"arcs": [],
+	"objects": {
+		"stations": {
+			"type": "GeometryCollection",
+			"geometries": [
+				{
+					"type": "Point",
+					"coordinates": [
+						121.183328751251,
+						24.9194227303369
+					],
+					"properties": {
+						"landmarkid": "6800004053193",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵埔心站",
+						"landmarkad": "6800004",
+						"address": "桃園市楊梅區埔心里永美路208之1號",
+						"tel": "03-4827100",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.083101015906,
+						24.9343074192504
+					],
+					"properties": {
+						"landmarkid": "6800004053194",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富岡站",
+						"landmarkad": "6800004",
+						"address": "桃園市楊梅區富岡里成功路37號",
+						"tel": "03-4723754",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.146608423603,
+						24.9142741828395
+					],
+					"properties": {
+						"landmarkid": "6800004053195",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵楊梅站",
+						"landmarkad": "6800004",
+						"address": "桃園市楊梅區楊梅里大成路256號",
+						"tel": "03-4782893",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.257957546469,
+						24.9724593118793
+					],
+					"properties": {
+						"landmarkid": "6800002053215",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵內壢站",
+						"landmarkad": "6800002",
+						"address": "桃園市中壢區中原里中華路一段267號",
+						"tel": "03-4559725",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.226216272801,
+						24.9535220424251
+					],
+					"properties": {
+						"landmarkid": "6800002053216",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵中壢站",
+						"landmarkad": "6800002",
+						"address": "桃園市中壢區石頭里中和路139號",
+						"tel": "03-4223235",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.314000911099,
+						24.9890012221655
+					],
+					"properties": {
+						"landmarkid": "6800001053268",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵桃園站",
+						"landmarkad": "6800001",
+						"address": "桃園市桃園區武陵里中正路1號",
+						"tel": "03-3323304",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.614472764121,
+						23.7594714318407
+					],
+					"properties": {
+						"landmarkid": "1000910053310",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵林內站",
+						"landmarkad": "1000910",
+						"address": "雲林縣林內鄉中山路42號",
+						"tel": "05-5892040",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.540660081514,
+						23.7114929999844
+					],
+					"properties": {
+						"landmarkid": "1000901053359",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵斗六站",
+						"landmarkad": "1000901",
+						"address": "雲林縣斗六市信義里民生路187號",
+						"tel": "05-5332900",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.579888632963,
+						23.7318259032221
+					],
+					"properties": {
+						"landmarkid": "1000901053360",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵石榴站",
+						"landmarkad": "1000901",
+						"address": "雲林縣斗六市榴北里文明路26號",
+						"tel": "05-5332900",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.480900934654,
+						23.6727568516371
+					],
+					"properties": {
+						"landmarkid": "1000902053365",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵斗南站",
+						"landmarkad": "1000902",
+						"address": "雲林縣斗南鎮南昌里中山路2號",
+						"tel": "05-5972039",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.47098202244,
+						23.6397292506187
+					],
+					"properties": {
+						"landmarkid": "1000902053366",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵石龜站",
+						"landmarkad": "1000902",
+						"address": "雲林縣斗南鎮石溪里",
+						"tel": "05-5972039",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.219591587702,
+						23.1263653214226
+					],
+					"properties": {
+						"landmarkid": "1001406053376",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵池上站",
+						"landmarkad": "1001406",
+						"address": "臺東縣池上鄉鐵花路30號",
+						"tel": "089-862097",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.176934660957,
+						23.1029407204005
+					],
+					"properties": {
+						"landmarkid": "1001403053382",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵海端站",
+						"landmarkad": "1001403",
+						"address": "臺東縣關山鎮西莊49號",
+						"tel": "089-811033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.164488725485,
+						23.0456514236926
+					],
+					"properties": {
+						"landmarkid": "1001403053383",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵關山站",
+						"landmarkad": "1001403",
+						"address": "臺東縣關山鎮博愛路2號",
+						"tel": "089-811033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.155968211725,
+						22.979998450189
+					],
+					"properties": {
+						"landmarkid": "1001405053386",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞和站",
+						"landmarkad": "1001405",
+						"address": "臺東縣鹿野鄉瑞和村瑞榮路1之1號",
+						"tel": "089-580159",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.137078313024,
+						22.9126879093182
+					],
+					"properties": {
+						"landmarkid": "1001405053387",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鹿野站",
+						"landmarkad": "1001405",
+						"address": "臺東縣鹿野鄉中正路38號",
+						"tel": "089-550217",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.15910358759,
+						22.9560078769455
+					],
+					"properties": {
+						"landmarkid": "1001405053388",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞源站",
+						"landmarkad": "1001405",
+						"address": "臺東縣鹿野鄉瑞景路一段336巷8號之1",
+						"tel": "089-580159",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.122585759472,
+						22.793283158569
+					],
+					"properties": {
+						"landmarkid": "1001401053395",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺東站",
+						"landmarkad": "1001401",
+						"address": "臺東縣臺東市岩灣路101巷598號",
+						"tel": "089-229687",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.093667477973,
+						22.7645649515618
+					],
+					"properties": {
+						"landmarkid": "1001401053396",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵康樂站",
+						"landmarkad": "1001401",
+						"address": "臺東縣臺東市博物館路51巷131號",
+						"tel": "089-383107",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.060964728694,
+						22.710304324715
+					],
+					"properties": {
+						"landmarkid": "1001401053397",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵知本站",
+						"landmarkad": "1001401",
+						"address": "臺東縣臺東市知本路二段900巷85號",
+						"tel": "089-514482",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.004809523125,
+						22.618917177985
+					],
+					"properties": {
+						"landmarkid": "1001409053422",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵太麻里站",
+						"landmarkad": "1001409",
+						"address": "臺東縣太麻里鄉大王村276-13號",
+						"tel": "089-781544",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.941984314624,
+						22.4609054833253
+					],
+					"properties": {
+						"landmarkid": "1001409053423",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瀧溪站",
+						"landmarkad": "1001409",
+						"address": "臺東縣太麻里鄉多良村大溪14鄰37之1號",
+						"tel": "089-761482",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.967356434699,
+						22.5309310343884
+					],
+					"properties": {
+						"landmarkid": "1001409053424",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵金崙站",
+						"landmarkad": "1001409",
+						"address": "臺東縣太麻里鄉金崙村47-17號",
+						"tel": "089-771068",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.900444221085,
+						22.3652246099921
+					],
+					"properties": {
+						"landmarkid": "1001410053428",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大武站",
+						"landmarkad": "1001410",
+						"address": "臺東縣大武鄉大鳥村和平部落33號",
+						"tel": "089-792056",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.877703019162,
+						22.3455102761876
+					],
+					"properties": {
+						"landmarkid": "1001410053429",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵古莊站",
+						"landmarkad": "1001410",
+						"address": "臺東縣大武鄉尚武村古莊83號",
+						"tel": "089-791820",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.253394870505,
+						23.0384550596957
+					],
+					"properties": {
+						"landmarkid": "6700031053432",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵永康站",
+						"landmarkad": "6700031",
+						"address": "臺南市永康區埔園里中山路459號",
+						"tel": "06-2323305",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.22405844461,
+						23.0190768486706
+					],
+					"properties": {
+						"landmarkid": "6700031053433",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大橋站",
+						"landmarkad": "6700031",
+						"address": "臺南市永康區中華路835號",
+						"tel": "06-3021755",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.286074341087,
+						22.9237943791832
+					],
+					"properties": {
+						"landmarkid": "6700028053449",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵沙崙站",
+						"landmarkad": "6700028",
+						"address": "台南市歸仁區沙崙里9鄰歸仁大道102號",
+						"tel": "06-3032686",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.272202704142,
+						22.9071347464386
+					],
+					"properties": {
+						"landmarkid": "6700028053450",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵長榮大學站",
+						"landmarkad": "6700028",
+						"address": "台南市歸仁區長榮一段200巷72弄126號",
+						"tel": "06-2782615",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.667656702202,
+						25.0779465080951
+					],
+					"properties": {
+						"landmarkid": "6500011053546",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵五堵站",
+						"landmarkad": "6500011",
+						"address": "新北市汐止區長安里長安路17號",
+						"tel": "02-86476200",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.661165703477,
+						25.0679326235457
+					],
+					"properties": {
+						"landmarkid": "6500011053547",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵汐止站",
+						"landmarkad": "6500011",
+						"address": "新北市汐止區信望里信義路1號",
+						"tel": "02-26415096",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.649500047887,
+						25.0629270410385
+					],
+					"properties": {
+						"landmarkid": "6500011053548",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵汐科站",
+						"landmarkad": "6500011",
+						"address": "新北市汐止區大同路二段182號",
+						"tel": "02-23815226#8730",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.797509142312,
+						25.0499015531156
+					],
+					"properties": {
+						"landmarkid": "6500024053758",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大華站",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區六分路12-1號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775210289482,
+						25.041043737078
+					],
+					"properties": {
+						"landmarkid": "6500024053759",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵十分站",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區十分街51號",
+						"tel": "02-24958307",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.76375768963,
+						25.0345864650707
+					],
+					"properties": {
+						"landmarkid": "6500024053760",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵望古站",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區(無站房)",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.748120870636,
+						25.0300647288993
+					],
+					"properties": {
+						"landmarkid": "6500024053761",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵嶺腳站",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區嶺腳街22號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.723726046523,
+						25.0240067491183
+					],
+					"properties": {
+						"landmarkid": "6500024053762",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵菁桐站",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區菁桐街52號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.740108963769,
+						25.025646590405
+					],
+					"properties": {
+						"landmarkid": "6500024053763",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵平溪站",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區中華街12號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.463723351015,
+						25.0141116294984
+					],
+					"properties": {
+						"landmarkid": "6500001053895",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站",
+						"landmarkad": "6500001",
+						"address": "新北市板橋區縣民大道二段7號",
+						"tel": "02-89691036",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.444469480409,
+						25.0042111999365
+					],
+					"properties": {
+						"landmarkid": "6500001053896",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵浮洲站",
+						"landmarkad": "6500001",
+						"address": "新北市板橋區僑中二街156號",
+						"tel": "02-23815226#4665",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.463277120606,
+						25.014382472259
+					],
+					"properties": {
+						"landmarkid": "6500001053899",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-北二出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.463150939335,
+						25.01350904555
+					],
+					"properties": {
+						"landmarkid": "6500001053900",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-西出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.463014971196,
+						25.0136849767056
+					],
+					"properties": {
+						"landmarkid": "6500001053901",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-北三出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.463778129735,
+						25.0137280102184
+					],
+					"properties": {
+						"landmarkid": "6500001053902",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-南三出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.464015034846,
+						25.0139680525713
+					],
+					"properties": {
+						"landmarkid": "6500001053903",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-南二出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.464321043461,
+						25.0141410702813
+					],
+					"properties": {
+						"landmarkid": "6500001053904",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-南一出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.464695923658,
+						25.0146330180528
+					],
+					"properties": {
+						"landmarkid": "6500001053905",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-東二出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.464015073064,
+						25.0149009336355
+					],
+					"properties": {
+						"landmarkid": "6500001053906",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-北一出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.464430066279,
+						25.0148620808557
+					],
+					"properties": {
+						"landmarkid": "6500001053907",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-東一出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.46299133766,
+						25.0141644133608
+					],
+					"properties": {
+						"landmarkid": "6500001053908",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-北二A出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.463565867668,
+						25.0146151856499
+					],
+					"properties": {
+						"landmarkid": "6500001053909",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站-北一A出口",
+						"landmarkad": "6500001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.852109639709,
+						25.0585095390963
+					],
+					"properties": {
+						"landmarkid": "6500025053961",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵牡丹站",
+						"landmarkad": "6500025",
+						"address": "新北市雙溪區牡丹路159號",
+						"tel": "02-24932980",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.866842079125,
+						25.0385424360019
+					],
+					"properties": {
+						"landmarkid": "6500025053962",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵雙溪站",
+						"landmarkad": "6500025",
+						"address": "新北市雙溪區新基里朝陽街1號",
+						"tel": "02-24932980",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.24060915668,
+						22.9233415053891
+					],
+					"properties": {
+						"landmarkid": "6700027054982",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵仁德站",
+						"landmarkad": "6700027",
+						"address": "臺南市仁德區保安里永德路10號",
+						"tel": "06-2669383",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.252575213452,
+						22.9043717893412
+					],
+					"properties": {
+						"landmarkid": "6700027054983",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵中洲站",
+						"landmarkad": "6700027",
+						"address": "臺南市仁德區中洲路298之1號",
+						"tel": "06-2667191",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.23183580516,
+						22.9329093234205
+					],
+					"properties": {
+						"landmarkid": "6700027054984",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵保安站",
+						"landmarkad": "6700027",
+						"address": "臺南市仁德區保安里文賢路一段529巷10號",
+						"tel": "06-2665988",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.606638699123,
+						25.0526698053489
+					],
+					"properties": {
+						"landmarkid": "6300009055041",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站",
+						"landmarkad": "6300009",
+						"address": "臺北市南港區南港路一段313號",
+						"tel": "02-27838645",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.605718641649,
+						25.0525007145382
+					],
+					"properties": {
+						"landmarkid": "6300009055043",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站-南一出口",
+						"landmarkad": "6300009",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.606254020375,
+						25.0525839956734
+					],
+					"properties": {
+						"landmarkid": "6300009055044",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站-南二出口",
+						"landmarkad": "6300009",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.604790651857,
+						25.0525364064533
+					],
+					"properties": {
+						"landmarkid": "6300009055045",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站-西出口",
+						"landmarkad": "6300009",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.60704519116,
+						25.0536012152534
+					],
+					"properties": {
+						"landmarkid": "6300009055046",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站-北出口",
+						"landmarkad": "6300009",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.607253393998,
+						25.0527684039014
+					],
+					"properties": {
+						"landmarkid": "6300009055047",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站-東一出口",
+						"landmarkad": "6300009",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.607628159106,
+						25.052810044469
+					],
+					"properties": {
+						"landmarkid": "6300009055048",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站-東二出口",
+						"landmarkad": "6300009",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517141962751,
+						25.0477822834186
+					],
+					"properties": {
+						"landmarkid": "6300005055194",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站",
+						"landmarkad": "6300005",
+						"address": "臺北市中正區黎明里北平西路3號",
+						"tel": "02-23713558",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.516346095151,
+						25.0478840594564
+					],
+					"properties": {
+						"landmarkid": "6300005055196",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-西二門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517001999291,
+						25.047134974797
+					],
+					"properties": {
+						"landmarkid": "6300005055197",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-南二門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517511003603,
+						25.0470420188215
+					],
+					"properties": {
+						"landmarkid": "6300005055198",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-南一門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.516672919879,
+						25.0471929966393
+					],
+					"properties": {
+						"landmarkid": "6300005055199",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-南三門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517925999158,
+						25.047359986292
+					],
+					"properties": {
+						"landmarkid": "6300005055200",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-東三門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517284041111,
+						25.0483139639542
+					],
+					"properties": {
+						"landmarkid": "6300005055201",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-北二門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.516282115268,
+						25.0475390477411
+					],
+					"properties": {
+						"landmarkid": "6300005055202",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-西三門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.516830975694,
+						25.0483949880829
+					],
+					"properties": {
+						"landmarkid": "6300005055203",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-北三門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517735033455,
+						25.0482350221351
+					],
+					"properties": {
+						"landmarkid": "6300005055204",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-北一門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.516425965241,
+						25.0482369606006
+					],
+					"properties": {
+						"landmarkid": "6300005055205",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-西一門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.518031914382,
+						25.047895975608
+					],
+					"properties": {
+						"landmarkid": "6300005055206",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-東一門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517963966883,
+						25.047622029554
+					],
+					"properties": {
+						"landmarkid": "6300005055207",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站-東二門",
+						"landmarkad": "6300005",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.306704492866,
+						23.1333482912125
+					],
+					"properties": {
+						"landmarkid": "6700019055681",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵善化站",
+						"landmarkad": "6700019",
+						"address": "臺南市善化區中山路1號",
+						"tel": "06-5837301",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.301915490466,
+						23.1070319175154
+					],
+					"properties": {
+						"landmarkid": "6700020055686",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南科站",
+						"landmarkad": "6700020",
+						"address": "台南市新市區大營里大營村287-300號",
+						"tel": "06-5896356",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.289851527485,
+						23.0682458633743
+					],
+					"properties": {
+						"landmarkid": "6700020055687",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新市站",
+						"landmarkad": "6700020",
+						"address": "臺南市新市區新和里中華路1號",
+						"tel": "06-5996911",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.360481013822,
+						23.366350722668
+					],
+					"properties": {
+						"landmarkid": "6700005055779",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵後壁站",
+						"landmarkad": "6700005",
+						"address": "臺南市後壁區後壁里77號",
+						"tel": "06-6872055",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.323301106246,
+						23.3066118652181
+					],
+					"properties": {
+						"landmarkid": "6700001055785",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新營站",
+						"landmarkad": "6700001",
+						"address": "臺南市新營區中營里中山路1號",
+						"tel": "06-6322104",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.578905145357,
+						25.0492603558795
+					],
+					"properties": {
+						"landmarkid": "6300002055889",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵松山站",
+						"landmarkad": "6300002",
+						"address": "臺北市信義區永吉里松山路11號",
+						"tel": "02-27673819",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.322606979085,
+						23.2774441233043
+					],
+					"properties": {
+						"landmarkid": "6700004055926",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵柳營站",
+						"landmarkad": "6700004",
+						"address": "臺南市柳營區建國路1號",
+						"tel": "06-6226450",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.321179660457,
+						23.242594341378
+					],
+					"properties": {
+						"landmarkid": "6700009055929",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵林鳳營站",
+						"landmarkad": "6700009",
+						"address": "臺南市六甲區中社里林鳳營16號",
+						"tel": "06-6986086",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.319506707826,
+						23.1927321712349
+					],
+					"properties": {
+						"landmarkid": "6700010055932",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵隆田站",
+						"landmarkad": "6700010",
+						"address": "臺南市官田區隆田里中山路一段1號",
+						"tel": "06-5791664",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.321050917247,
+						23.1721013511773
+					],
+					"properties": {
+						"landmarkid": "6700010055933",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵拔林站",
+						"landmarkad": "6700010",
+						"address": "台南市官田區拔林里83之1號",
+						"tel": "06-5791664",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.723191533651,
+						24.2540989752923
+					],
+					"properties": {
+						"landmarkid": "6600009055972",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵豐原站(山)",
+						"landmarkad": "6600009",
+						"address": "臺中市豐原區中正路1號",
+						"tel": "04-25207950",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.557334879147,
+						24.2370552974061
+					],
+					"properties": {
+						"landmarkid": "6600013055995",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵沙鹿站(海)",
+						"landmarkad": "6600013",
+						"address": "臺中市沙鹿區中正街94號",
+						"tel": "04-26625057",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.705846982688,
+						24.2127870650997
+					],
+					"properties": {
+						"landmarkid": "6600017056012",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵潭子站(山)",
+						"landmarkad": "6600017",
+						"address": "臺中市潭子區中山路二段352號",
+						"tel": "04-25319200",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.543216287582,
+						24.1974691002912
+					],
+					"properties": {
+						"landmarkid": "6600025056015",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龍井站(海)",
+						"landmarkad": "6600025",
+						"address": "臺中市龍井區龍新路1號",
+						"tel": "04-26355578",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.700071497217,
+						24.1667531511969
+					],
+					"properties": {
+						"landmarkid": "6600008056046",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵太原站(山)",
+						"landmarkad": "6600008",
+						"address": "臺中市東光路833號",
+						"tel": "04-22313926",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.212856380391,
+						22.9969361827593
+					],
+					"properties": {
+						"landmarkid": "6700032056122",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺南站",
+						"landmarkad": "6700032",
+						"address": "臺南市東區北門路二段4號",
+						"tel": "06-2261314",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.654211580008,
+						24.3777434447851
+					],
+					"properties": {
+						"landmarkid": "6600011056139",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵日南站(海)",
+						"landmarkad": "6600011",
+						"address": "臺中市大甲區孟春里中山路二段140巷8號",
+						"tel": "04-26872022",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.627262195438,
+						24.3444958362243
+					],
+					"properties": {
+						"landmarkid": "6600011056140",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大甲站(海)",
+						"landmarkad": "6600011",
+						"address": "臺中市大甲區中山路一段828號",
+						"tel": "04-26872022",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.741786254121,
+						24.331294467729
+					],
+					"properties": {
+						"landmarkid": "6600015056149",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵泰安站(山)",
+						"landmarkad": "6600015",
+						"address": "中巿后里區安眉路37-12號",
+						"tel": "04-25562038",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.733184648254,
+						24.3094070164886
+					],
+					"properties": {
+						"landmarkid": "6600015056150",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵后里站(山)",
+						"landmarkad": "6600015",
+						"address": "臺中市后里區甲后路1號",
+						"tel": "04-25562038",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.602440759745,
+						24.3043756258215
+					],
+					"properties": {
+						"landmarkid": "6600012056159",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺中港站(海)",
+						"landmarkad": "6600012",
+						"address": "臺中市清水區甲南路2號",
+						"tel": "04-26225374",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.568966109169,
+						24.2637529380999
+					],
+					"properties": {
+						"landmarkid": "6600012056160",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵清水站(海)",
+						"landmarkad": "6600012",
+						"address": "臺中市清水區南社里中正街115號",
+						"tel": "04-26222021",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.542376219125,
+						24.1540998222339
+					],
+					"properties": {
+						"landmarkid": "6600024056173",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大肚站(海)",
+						"landmarkad": "6600024",
+						"address": "臺中市大肚區平和街121號",
+						"tel": "04-26992523",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.570150764508,
+						24.1203403250548
+					],
+					"properties": {
+						"landmarkid": "6600024056174",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵追分站(海)",
+						"landmarkad": "6600024",
+						"address": "臺中市大肚區王田里追分街13號",
+						"tel": "04-26933106",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.62247458758,
+						24.1089045612808
+					],
+					"properties": {
+						"landmarkid": "6600023056213",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵烏日站(山)",
+						"landmarkad": "6600023",
+						"address": "臺中市烏日區三民街258號",
+						"tel": "04-23381071",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.613546598349,
+						24.1098495698893
+					],
+					"properties": {
+						"landmarkid": "6600023056214",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新烏日站(山)",
+						"landmarkad": "6600023",
+						"address": "臺中市烏日區高鐵東一路",
+						"tel": "04-23376883",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.590112316069,
+						24.1143999663008
+					],
+					"properties": {
+						"landmarkid": "6600023056215",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵成功站(山)",
+						"landmarkad": "6600023",
+						"address": "臺中市烏日區中山路三段550號",
+						"tel": "04-23371986",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.5112253372,
+						22.4579670658296
+					],
+					"properties": {
+						"landmarkid": "1001319056259",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鎮安站",
+						"landmarkad": "1001319",
+						"address": "屏東縣林邊鄉鎮安村永和路4號",
+						"tel": "08-8642942",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.515046260334,
+						22.4314639739444
+					],
+					"properties": {
+						"landmarkid": "1001319056260",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵林邊站",
+						"landmarkad": "1001319",
+						"address": "屏東縣林邊鄉仁和村仁愛路33號",
+						"tel": "08-8751475",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.547540664697,
+						22.4140433566248
+					],
+					"properties": {
+						"landmarkid": "1001321056264",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵佳冬站",
+						"landmarkad": "1001321",
+						"address": "屏東縣佳冬鄉六根村復興路21號",
+						"tel": "08-8662939",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.62473617111,
+						22.3310828886125
+					],
+					"properties": {
+						"landmarkid": "1001325056266",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵加祿站",
+						"landmarkad": "1001325",
+						"address": "屏東縣枋山鄉加祿村會社路53號",
+						"tel": "08-8720791",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.643443718702,
+						22.3063327899228
+					],
+					"properties": {
+						"landmarkid": "1001325056267",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵內獅站",
+						"landmarkad": "1001325",
+						"address": "屏東縣枋山鄉加祿村南和路43號",
+						"tel": "08-8720791",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.659722866462,
+						22.2671867293697
+					],
+					"properties": {
+						"landmarkid": "1001332056270",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵枋山站",
+						"landmarkad": "1001332",
+						"address": "屏東縣獅子鄉內獅村內獅巷84號",
+						"tel": "08-8720791",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.71709924336,
+						22.2808566678103
+					],
+					"properties": {
+						"landmarkid": "1001332056271",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵枋野站",
+						"landmarkad": "1001332",
+						"address": "屏東縣獅子鄉內獅巷88號",
+						"tel": "08-8761953",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.68518888383,
+						24.1367863480564
+					],
+					"properties": {
+						"landmarkid": "6600001056330",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺中站(山)",
+						"landmarkad": "6600001",
+						"address": "臺中市建國路172號",
+						"tel": "04-22227236",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.647755755156,
+						24.1189069978291
+					],
+					"properties": {
+						"landmarkid": "6600003056385",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大慶站(山)",
+						"landmarkad": "6600003",
+						"address": "臺中市建國路80號(對面)",
+						"tel": "04-22637940",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.485888112698,
+						22.6690628859963
+					],
+					"properties": {
+						"landmarkid": "1001301056398",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵屏東站",
+						"landmarkad": "1001301",
+						"address": "屏東縣屏東市光復路43號",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.502816539561,
+						22.6522732787117
+					],
+					"properties": {
+						"landmarkid": "1001301056399",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵歸來站",
+						"landmarkad": "1001301",
+						"address": "屏東縣屏東市歸來里歸仁路5-4號",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.464765140183,
+						22.6656984941371
+					],
+					"properties": {
+						"landmarkid": "1001301056400",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵六塊厝站",
+						"landmarkad": "1001301",
+						"address": "屏東縣屏東市長安里光復路392號",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.513933389009,
+						22.6354028965435
+					],
+					"properties": {
+						"landmarkid": "1001307056410",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵麟洛站",
+						"landmarkad": "1001307",
+						"address": "屏東縣麟洛鄉田道村緀仔一路",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.52658329085,
+						22.6161831936054
+					],
+					"properties": {
+						"landmarkid": "1001314056415",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵西勢站",
+						"landmarkad": "1001314",
+						"address": "屏東縣竹田鄉西勢村西豐路2號",
+						"tel": "08-7784521",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.539734257326,
+						22.5865347894506
+					],
+					"properties": {
+						"landmarkid": "1001314056416",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹田站",
+						"landmarkad": "1001314",
+						"address": "屏東縣竹田鄉履豐村豐明路27-1號",
+						"tel": "08-7711002",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.53603146528,
+						22.5498733227137
+					],
+					"properties": {
+						"landmarkid": "1001302056422",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵潮州站",
+						"landmarkad": "1001302",
+						"address": "屏東縣潮州鎮信義路111號",
+						"tel": "08-7882739",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.511999212961,
+						22.4920341420578
+					],
+					"properties": {
+						"landmarkid": "1001320056428",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南州站",
+						"landmarkad": "1001320",
+						"address": "屏東縣南州鄉仁里村仁里路86號",
+						"tel": "08-8642942",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.695522358589,
+						24.5407608677117
+					],
+					"properties": {
+						"landmarkid": "1000503056434",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新埔站(海)",
+						"landmarkad": "1000503",
+						"address": "苗栗縣通霄鎮新埔里8鄰57號",
+						"tel": "037-793066",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.678353268691,
+						24.491669314639
+					],
+					"properties": {
+						"landmarkid": "1000503056435",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵通霄站(海)",
+						"landmarkad": "1000503",
+						"address": "苗栗縣通霄鎮通西里中山路109號",
+						"tel": "037-758300",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.707890414788,
+						24.5647760845653
+					],
+					"properties": {
+						"landmarkid": "1000503056436",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵白沙屯站(海)",
+						"landmarkad": "1000503",
+						"address": "苗栗縣通霄鎮白西里131號",
+						"tel": "037-793066",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.704928461873,
+						23.8344813392915
+					],
+					"properties": {
+						"landmarkid": "1000806056443",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵濁水站(集集線)",
+						"landmarkad": "1000806",
+						"address": "南投縣名間鄉濁水村車站路53號",
+						"tel": "049-2735850",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.853297385034,
+						23.8185531490468
+					],
+					"properties": {
+						"landmarkid": "1000811056447",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵水里站(集集線)",
+						"landmarkad": "1000811",
+						"address": "南投縣水里鄉民生路442號",
+						"tel": "049-2770015",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.865984083851,
+						23.8326277205297
+					],
+					"properties": {
+						"landmarkid": "1000811056448",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵車埕站(集集線)",
+						"landmarkad": "1000811",
+						"address": "南投縣水里鄉車埕村民權巷2號",
+						"tel": "049-2774749",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.871438745573,
+						24.7227053041339
+					],
+					"properties": {
+						"landmarkid": "1000504056456",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵崎頂站",
+						"landmarkad": "1000504",
+						"address": "苗栗縣竹南鎮崎頂里北戶55號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.880751687776,
+						24.6866459284678
+					],
+					"properties": {
+						"landmarkid": "1000504056457",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹南站",
+						"landmarkad": "1000504",
+						"address": "苗栗縣竹南鎮中山路166號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.867374836519,
+						24.6418017313008
+					],
+					"properties": {
+						"landmarkid": "1000515056470",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵造橋站(山)",
+						"landmarkad": "1000515",
+						"address": "苗栗縣造橋鄉造橋村平仁路54號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.858320591802,
+						24.6565716057421
+					],
+					"properties": {
+						"landmarkid": "1000515056471",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵談文站(海)",
+						"landmarkad": "1000515",
+						"address": "苗栗縣造橋鄉談文村仁愛路29號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.786119532543,
+						24.4866500770574
+					],
+					"properties": {
+						"landmarkid": "1000510056475",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵銅鑼站(山)",
+						"landmarkad": "1000510",
+						"address": "苗栗縣銅鑼鄉銅鑼村大同路13號",
+						"tel": "037-983838",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.651218641184,
+						24.4434858381229
+					],
+					"properties": {
+						"landmarkid": "1000502056478",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵苑裡站(海)",
+						"landmarkad": "1000502",
+						"address": "苗栗縣苑裡鎮中山路165號",
+						"tel": "037-851013",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.822005659726,
+						24.570121878329
+					],
+					"properties": {
+						"landmarkid": "1000501056493",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵苗栗站(山)",
+						"landmarkad": "1000501",
+						"address": "苗栗縣苗栗市為公路1號",
+						"tel": "037-260031",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.791608356224,
+						24.522852321417
+					],
+					"properties": {
+						"landmarkid": "1000501056494",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南勢站(山)",
+						"landmarkad": "1000501",
+						"address": "苗栗縣苗栗市新英里南勢39號",
+						"tel": "037-260031",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.774182639159,
+						24.4206376055445
+					],
+					"properties": {
+						"landmarkid": "1000513056506",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三義站(山)",
+						"landmarkad": "1000513",
+						"address": "苗栗縣三義鄉雙湖村90號",
+						"tel": "037-874763",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.600897523867,
+						23.9934068667619
+					],
+					"properties": {
+						"landmarkid": "1001501056510",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵花蓮站",
+						"landmarkad": "1001501",
+						"address": "花蓮市國聯一路100號",
+						"tel": "03-8355941",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.60596075207,
+						24.0032039250536
+					],
+					"properties": {
+						"landmarkid": "1001501056511",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵花蓮港站",
+						"landmarkad": "1001501",
+						"address": "花蓮市港口街2號",
+						"tel": "03-8222468",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.739223212703,
+						25.1327636504774
+					],
+					"properties": {
+						"landmarkid": "1001704056516",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵基隆站",
+						"landmarkad": "1001704",
+						"address": "基隆市仁愛區文昌里港西街5號",
+						"tel": "02-24263743",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.741982269056,
+						25.123201383883
+					],
+					"properties": {
+						"landmarkid": "1001704056520",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三坑站",
+						"landmarkad": "1001704",
+						"address": "基隆市仁愛區龍安街206號",
+						"tel": "02-24230289",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.728672861984,
+						25.1084702892948
+					],
+					"properties": {
+						"landmarkid": "1001703056522",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵八堵站",
+						"landmarkad": "1001703",
+						"address": "基隆市暖暖區八南里八堵路142號",
+						"tel": "02-24560841",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.740477995455,
+						25.1022405257395
+					],
+					"properties": {
+						"landmarkid": "1001703056523",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵暖暖站",
+						"landmarkad": "1001703",
+						"address": "基隆市暖暖街51號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.254160638626,
+						22.8782583753992
+					],
+					"properties": {
+						"landmarkid": "6400024056530",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大湖站",
+						"landmarkad": "6400024",
+						"address": "高雄市路竹區甲南里天佑路24號",
+						"tel": "07-6932127",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.266263555063,
+						22.85409619039
+					],
+					"properties": {
+						"landmarkid": "6400024056531",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵路竹站",
+						"landmarkad": "6400024",
+						"address": "高雄市路竹區竹南里中正路288號",
+						"tel": "07-6072723",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.300356375115,
+						22.7925360338721
+					],
+					"properties": {
+						"landmarkid": "6400019056534",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵岡山站",
+						"landmarkad": "6400019",
+						"address": "高雄市岡山區岡燕路111號",
+						"tel": "07-6212074",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.310406566368,
+						22.7607421486908
+					],
+					"properties": {
+						"landmarkid": "6400020056544",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵橋頭站",
+						"landmarkad": "6400020",
+						"address": "高雄市橋頭區橋頭里站前街14號",
+						"tel": "07-6115424",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.421098830104,
+						22.6558022171718
+					],
+					"properties": {
+						"landmarkid": "6400015056558",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵九曲堂站",
+						"landmarkad": "6400015",
+						"address": "高雄市大樹區久堂里鐵路巷15號",
+						"tel": "07-6512020",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.357518748553,
+						22.6314672126153
+					],
+					"properties": {
+						"landmarkid": "6400012056561",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鳳山站",
+						"landmarkad": "6400012",
+						"address": "高雄市鳳山區曹公路70號",
+						"tel": "07-7460423",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.391136694856,
+						22.64030941141
+					],
+					"properties": {
+						"landmarkid": "6400014056580",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵後庄站",
+						"landmarkad": "6400014",
+						"address": "高雄市大寮區民慶街9號",
+						"tel": "07-7020149",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.324173795753,
+						22.7270877591182
+					],
+					"properties": {
+						"landmarkid": "6400004056586",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵楠梓站",
+						"landmarkad": "6400004",
+						"address": "高雄市楠梓區建楠路229號",
+						"tel": "07-3510175",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.307260246414,
+						22.6875821388546
+					],
+					"properties": {
+						"landmarkid": "6400003056622",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新左營站",
+						"landmarkad": "6400003",
+						"address": "高雄市左營區尾北里站前北路1號",
+						"tel": "07-5887825",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.295434502218,
+						22.675874113528
+					],
+					"properties": {
+						"landmarkid": "6400003056623",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵左營站",
+						"landmarkad": "6400003",
+						"address": "高雄市左營區勝利路1號",
+						"tel": "07-5887825",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.302133349819,
+						22.6397753078608
+					],
+					"properties": {
+						"landmarkid": "6400005056650",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵高雄站",
+						"landmarkad": "6400005",
+						"address": "高雄市三民區建國二路318號",
+						"tel": "07-2352376",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.830502500909,
+						24.5182457930662
+					],
+					"properties": {
+						"landmarkid": "1000212056753",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東澳站",
+						"landmarkad": "1000212",
+						"address": "宜蘭縣南澳鄉東岳村1號",
+						"tel": "03-9986053",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.768397189689,
+						24.3353735822686
+					],
+					"properties": {
+						"landmarkid": "1000212056754",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵漢本站",
+						"landmarkad": "1000212",
+						"address": "宜蘭縣南澳鄉澳花村蘇花路一段56號",
+						"tel": "03-9985238",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775937654614,
+						24.4488786685956
+					],
+					"properties": {
+						"landmarkid": "1000212056755",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵武塔站",
+						"landmarkad": "1000212",
+						"address": "宜蘭縣南澳鄉武塔村新溪路18號",
+						"tel": "03-9981971",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.610625697606,
+						24.0902617258582
+					],
+					"properties": {
+						"landmarkid": "1001511056776",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵景美站",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉加灣178-1號",
+						"tel": "03-8611237",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.75463133043,
+						24.298135062468
+					],
+					"properties": {
+						"landmarkid": "1001511056777",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵和平站",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉和平村276號",
+						"tel": "03-8681009",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.712373564916,
+						24.2411599025012
+					],
+					"properties": {
+						"landmarkid": "1001511056778",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵和仁站",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉和仁路71號",
+						"tel": "03-8681221",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.655553855861,
+						24.1711112210061
+					],
+					"properties": {
+						"landmarkid": "1001511056779",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵崇德站",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉海濱路96號",
+						"tel": "03-8621365",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.908783052682,
+						25.021909822702
+					],
+					"properties": {
+						"landmarkid": "6500026056788",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵貢寮站",
+						"landmarkad": "6500026",
+						"address": "新北市貢寮區貢寮里朝陽街33號",
+						"tel": "02-24941500",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.944584601677,
+						25.0158027651364
+					],
+					"properties": {
+						"landmarkid": "6500026056789",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵福隆站",
+						"landmarkad": "6500026",
+						"address": "新北市貢寮區福隆里福隆街2號",
+						"tel": "02-24991800",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.640603824867,
+						24.127637156229
+					],
+					"properties": {
+						"landmarkid": "1001504056794",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新城站",
+						"landmarkad": "1001504",
+						"address": "花蓮縣新城鄉新城村新興1路73號",
+						"tel": "03-8611237",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.601522217635,
+						24.0327102202563
+					],
+					"properties": {
+						"landmarkid": "1001504056795",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵北埔站",
+						"landmarkad": "1001504",
+						"address": "花蓮縣新城鄉自強街113號",
+						"tel": "03-8263809",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.806282722208,
+						25.10890419796
+					],
+					"properties": {
+						"landmarkid": "6500012056803",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞芳站",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區龍潭里明燈路三段82號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.827253102746,
+						25.087127645902
+					],
+					"properties": {
+						"landmarkid": "6500012056804",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵猴硐站",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區光復里柴寮路70號",
+						"tel": "02-24977747",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.761805697844,
+						25.1025733682605
+					],
+					"properties": {
+						"landmarkid": "6500012056805",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵四腳亭站",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區吉慶里中央路65號",
+						"tel": "02-24579346",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.822513795041,
+						25.0655323420023
+					],
+					"properties": {
+						"landmarkid": "6500012056806",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三貂嶺站",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區碩仁里魚寮路1號",
+						"tel": "02-24977896",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.762881113611,
+						24.7867781823062
+					],
+					"properties": {
+						"landmarkid": "1000205056820",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵四城站",
+						"landmarkad": "1000205",
+						"address": "宜蘭縣礁溪鄉吳沙村站前路24號",
+						"tel": "03-9282449",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775561951797,
+						24.8270613499752
+					],
+					"properties": {
+						"landmarkid": "1000205056821",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵礁溪站",
+						"landmarkad": "1000205",
+						"address": "宜蘭縣礁溪鄉德陽村溫泉路1號",
+						"tel": "03-9886940",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.75850458861,
+						24.7547657745519
+					],
+					"properties": {
+						"landmarkid": "1000201056842",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵宜蘭站",
+						"landmarkad": "1000201",
+						"address": "宜蘭縣宜蘭市和睦里光復路1號",
+						"tel": "03-9323801",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.774544897585,
+						24.6778413300243
+					],
+					"properties": {
+						"landmarkid": "1000202056864",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵羅東站",
+						"landmarkad": "1000202",
+						"address": "宜蘭縣羅東鎮大新里公正路2號",
+						"tel": "03-9542117",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.774246503504,
+						24.7053375330382
+					],
+					"properties": {
+						"landmarkid": "1000209056871",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵二結站",
+						"landmarkad": "1000209",
+						"address": "宜蘭縣五結鄉三興村復興中路37號",
+						"tel": "03-9650304",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775140185409,
+						24.6943434474891
+					],
+					"properties": {
+						"landmarkid": "1000209056872",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵中里站",
+						"landmarkad": "1000209",
+						"address": "宜蘭縣五結鄉台興路10號",
+						"tel": "03-9542117",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.792159992333,
+						24.6366583233034
+					],
+					"properties": {
+						"landmarkid": "1000208056879",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵冬山站",
+						"landmarkad": "1000208",
+						"address": "宜蘭縣冬山鄉冬山村中正路1號",
+						"tel": "03-9594221",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.421017921509,
+						23.6662985352138
+					],
+					"properties": {
+						"landmarkid": "1001507056881",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵光復站",
+						"landmarkad": "1001507",
+						"address": "花蓮縣光復鄉中正路一段2-1號",
+						"tel": "03-8704143",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.389554716,
+						23.6056918049985
+					],
+					"properties": {
+						"landmarkid": "1001507056882",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大富站",
+						"landmarkad": "1001507",
+						"address": "花蓮縣光復鄉明德路1號",
+						"tel": "03-8811824",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.055766646924,
+						24.9221943179673
+					],
+					"properties": {
+						"landmarkid": "1000405056892",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵北湖站",
+						"landmarkad": "1000405",
+						"address": "新竹縣湖口鄉東興村北湖路1號",
+						"tel": "03-5993850",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.043789936871,
+						24.9028315019077
+					],
+					"properties": {
+						"landmarkid": "1000405056893",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵湖口站",
+						"landmarkad": "1000405",
+						"address": "新竹縣湖口鄉仁勢村中山路二段121號",
+						"tel": "03-5992192",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.055932031546,
+						24.7777090932985
+					],
+					"properties": {
+						"landmarkid": "1000402056906",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵上員站(內灣線)",
+						"landmarkad": "1000402",
+						"address": "新竹縣竹東鎮上員里(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.094399367576,
+						24.7388784747534
+					],
+					"properties": {
+						"landmarkid": "1000402056907",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹東站(內灣線)",
+						"landmarkad": "1000402",
+						"address": "新竹縣竹東鎮雞林里東林路196號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.031310451684,
+						24.7812678887465
+					],
+					"properties": {
+						"landmarkid": "1000402056908",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹中站(內灣線)",
+						"landmarkad": "1000402",
+						"address": "新竹縣頭重里竹中路145號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.083299657516,
+						24.7483194098937
+					],
+					"properties": {
+						"landmarkid": "1000402056909",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵榮華站(內灣線)",
+						"landmarkad": "1000402",
+						"address": "新竹縣竹東鎮仁愛里(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.117512453188,
+						24.7204505554484
+					],
+					"properties": {
+						"landmarkid": "1000408056919",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵橫山站(內灣線)",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉橫山村橫山路97號(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.136140259608,
+						24.7203920317766
+					],
+					"properties": {
+						"landmarkid": "1000408056920",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵九讚頭站(內灣線)",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉中豐路二段286巷29號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.182569463503,
+						24.7053609320821
+					],
+					"properties": {
+						"landmarkid": "1000408056921",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵內灣站(內灣線)",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉中正路6號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.16749950387,
+						24.7154354300068
+					],
+					"properties": {
+						"landmarkid": "1000408056922",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富貴站(內灣線)",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.154613895129,
+						24.7167005254949
+					],
+					"properties": {
+						"landmarkid": "1000408056923",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵合興站(內灣線)",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉中山街一段17號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.5293508349,
+						23.9075499317556
+					],
+					"properties": {
+						"landmarkid": "1001506056937",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵志學站",
+						"landmarkad": "1001506",
+						"address": "花蓮縣壽豐鄉中正路1號",
+						"tel": "03-8662966",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.520560586742,
+						23.8826772270757
+					],
+					"properties": {
+						"landmarkid": "1001506056938",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵平和站",
+						"landmarkad": "1001506",
+						"address": "平和站",
+						"tel": "03-8653706",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.510809048387,
+						23.8688394072653
+					],
+					"properties": {
+						"landmarkid": "1001506056939",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵壽豐站",
+						"landmarkad": "1001506",
+						"address": "花蓮縣壽豐鄉壽山路1號",
+						"tel": "03-8653706",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.49606717029,
+						23.8484550175078
+					],
+					"properties": {
+						"landmarkid": "1001506056940",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵豐田站",
+						"landmarkad": "1001506",
+						"address": "花蓮縣壽豐鄉站前街36號",
+						"tel": "03-8654251",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.446744646929,
+						23.7461860006102
+					],
+					"properties": {
+						"landmarkid": "1001502056945",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鳳林站",
+						"landmarkad": "1001502",
+						"address": "花蓮縣鳳林鎮中山路43號",
+						"tel": "03-8762004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.419005932201,
+						23.7120664778105
+					],
+					"properties": {
+						"landmarkid": "1001502056946",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵萬榮站",
+						"landmarkad": "1001502",
+						"address": "花蓮縣鳳林鎮長德街17號",
+						"tel": "03-8752175",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.458142805464,
+						23.7822762119659
+					],
+					"properties": {
+						"landmarkid": "1001502056947",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南平站",
+						"landmarkad": "1001502",
+						"address": "花蓮縣鳳林鎮自強路233號",
+						"tel": "03-8771597",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.380251439239,
+						23.5802221244089
+					],
+					"properties": {
+						"landmarkid": "1001509056951",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富源站",
+						"landmarkad": "1001509",
+						"address": "花蓮縣瑞穗鄉富源路2號",
+						"tel": "03-8811824",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.376586739261,
+						23.4980042249531
+					],
+					"properties": {
+						"landmarkid": "1001509056952",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞穗站",
+						"landmarkad": "1001509",
+						"address": "花蓮縣瑞穗鄉四維街13號",
+						"tel": "03-8875039",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.345075057479,
+						23.4241232135783
+					],
+					"properties": {
+						"landmarkid": "1001503056955",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三民站",
+						"landmarkad": "1001503",
+						"address": "花蓮縣玉里鎮三民路10號",
+						"tel": "03-8841847",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.311763107043,
+						23.3316978448573
+					],
+					"properties": {
+						"landmarkid": "1001503056956",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵玉里站",
+						"landmarkad": "1001503",
+						"address": "花蓮縣玉里鎮康樂街39號",
+						"tel": "03-8882020",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.304135628832,
+						23.2724179325808
+					],
+					"properties": {
+						"landmarkid": "1001510056960",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東里站",
+						"landmarkad": "1001510",
+						"address": "花蓮縣富里鄉大莊路15號之6",
+						"tel": "03-8861005",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.278284721325,
+						23.2259820832278
+					],
+					"properties": {
+						"landmarkid": "1001510056961",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東竹站",
+						"landmarkad": "1001510",
+						"address": "花蓮縣富里鄉新興村26號",
+						"tel": "03-8821504",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.248591984872,
+						23.1791304035342
+					],
+					"properties": {
+						"landmarkid": "1001510056962",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富里站",
+						"landmarkad": "1001510",
+						"address": "花蓮縣富里鄉車站街56號",
+						"tel": "03-8831771",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.996477370945,
+						24.8692244595424
+					],
+					"properties": {
+						"landmarkid": "1000406056967",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新豐站",
+						"landmarkad": "1000406",
+						"address": "新竹縣新豐鄉員山村新興路202號",
+						"tel": "03-5596314",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.009331300387,
+						24.8392363417051
+					],
+					"properties": {
+						"landmarkid": "1000401057008",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹北站",
+						"landmarkad": "1000401",
+						"address": "新竹縣竹北市福德里和平街59號",
+						"tel": "03-5552024",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.039267254481,
+						24.8070138178082
+					],
+					"properties": {
+						"landmarkid": "1000401057009",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵六家站(內灣線)",
+						"landmarkad": "1000401",
+						"address": "新竹縣竹北市復興三路二段229號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.003433274789,
+						24.8065991654235
+					],
+					"properties": {
+						"landmarkid": "1001801057072",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵千甲站",
+						"landmarkad": "1001801",
+						"address": "新竹市水源里千甲路142號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.982925399574,
+						24.8080698999938
+					],
+					"properties": {
+						"landmarkid": "1001801057073",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵北新竹站",
+						"landmarkad": "1001801",
+						"address": "新竹市中華路一段291之2號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.971912067702,
+						24.8015306411005
+					],
+					"properties": {
+						"landmarkid": "1001801057074",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新竹站",
+						"landmarkad": "1001801",
+						"address": "新竹市榮光里中華路二段445號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.021856795908,
+						24.7884113081962
+					],
+					"properties": {
+						"landmarkid": "1001801057075",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新莊站",
+						"landmarkad": "1001801",
+						"address": "新竹市新莊里關東路310號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.913982343315,
+						24.7632858196579
+					],
+					"properties": {
+						"landmarkid": "1001803057092",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵香山站",
+						"landmarkad": "1001803",
+						"address": "新竹市朝山里中華路五段347巷2弄27號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.929,
+						24.7872061999999
+					],
+					"properties": {
+						"landmarkid": "1001803057093",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三姓橋站",
+						"landmarkad": "1001803",
+						"address": "新竹市香山區元培街32巷30號",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.455673981146,
+						23.6007536353576
+					],
+					"properties": {
+						"landmarkid": "1001004057097",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大林站",
+						"landmarkad": "1001004",
+						"address": "嘉義縣大林鎮吉林里中山路2號",
+						"tel": "05-2654804",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.431634416784,
+						23.5549142679651
+					],
+					"properties": {
+						"landmarkid": "1001005057104",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵民雄站",
+						"landmarkad": "1001005",
+						"address": "嘉義縣民雄鄉東榮村和平路2號",
+						"tel": "05-2264272",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.448314003556,
+						23.5000131586242
+					],
+					"properties": {
+						"landmarkid": "1002001057108",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵嘉北站",
+						"landmarkad": "1002001",
+						"address": "嘉義市後湖里保健街110號",
+						"tel": "05-2334584",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.440824936121,
+						23.4793624152313
+					],
+					"properties": {
+						"landmarkid": "1002002057110",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵嘉義站",
+						"landmarkad": "1002002",
+						"address": "嘉義市中山路528號(含前、後站)",
+						"tel": "05-2228904",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.538262545353,
+						24.0816003372154
+					],
+					"properties": {
+						"landmarkid": "1000701057139",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵彰化站",
+						"landmarkad": "1000701",
+						"address": "彰化縣彰化市三民路1號",
+						"tel": "04-7278263",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.399617246367,
+						23.4337553605676
+					],
+					"properties": {
+						"landmarkid": "1001012057149",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵水上站",
+						"landmarkad": "1001012",
+						"address": "嘉義縣水上鄉粗溪村68號",
+						"tel": "05-2228904",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.386811105426,
+						23.4133663509829
+					],
+					"properties": {
+						"landmarkid": "1001012057150",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南靖站",
+						"landmarkad": "1001012",
+						"address": "嘉義縣水上鄉三鎮村26號",
+						"tel": "05-2228904",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.537220966487,
+						24.0249621881221
+					],
+					"properties": {
+						"landmarkid": "1000708057156",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵花壇站",
+						"landmarkad": "1000708",
+						"address": "彰化縣花壇鄉中正路370號",
+						"tel": "04-7881418",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.560568528449,
+						23.9900371884349
+					],
+					"properties": {
+						"landmarkid": "1000713057159",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大村站",
+						"landmarkad": "1000713",
+						"address": "彰化縣大村鄉過溝村福進路100號",
+						"tel": "04-8525148",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.569611092576,
+						23.9596014959798
+					],
+					"properties": {
+						"landmarkid": "1000710057164",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵員林站",
+						"landmarkad": "1000710",
+						"address": "彰化縣員林鎮民權街55號",
+						"tel": "04-8320544",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.571758436509,
+						23.9280572994705
+					],
+					"properties": {
+						"landmarkid": "1000716057181",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵永靖站",
+						"landmarkad": "1000716",
+						"address": "彰化縣永靖鄉崙子村永崙路25號",
+						"tel": "04-8320544",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.580641583253,
+						23.8957846897532
+					],
+					"properties": {
+						"landmarkid": "1000717057183",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵社頭站",
+						"landmarkad": "1000717",
+						"address": "彰化縣社頭鄉廣興村社站路10號",
+						"tel": "04-8711646",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.591581817515,
+						23.8583026201173
+					],
+					"properties": {
+						"landmarkid": "1000712057192",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵田中站",
+						"landmarkad": "1000712",
+						"address": "彰化縣田中鎮中州路一段1號",
+						"tel": "04-8742142",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.642063210837,
+						23.7985010634317
+					],
+					"properties": {
+						"landmarkid": "1000718057204",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵源泉站(集集線)",
+						"landmarkad": "1000718",
+						"address": "彰化縣二水鄉合興村英義路(無站房)",
+						"tel": "04-8792027",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.618035806115,
+						23.8133541629015
+					],
+					"properties": {
+						"landmarkid": "1000718057205",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵二水站",
+						"landmarkad": "1000718",
+						"address": "彰化縣二水鄉光文路1號",
+						"tel": "04-8792027",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.499989940231,
+						25.0333518771335
+					],
+					"properties": {
+						"landmarkid": "6300007057352",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵萬華站",
+						"landmarkad": "6300007",
+						"address": "臺北市萬華區富福里康定路382號",
+						"tel": "02-23020481",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.137967327557,
+						22.8618688325804
+					],
+					"properties": {
+						"landmarkid": "1001404057377",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵山里站",
+						"landmarkad": "1001404",
+						"address": "臺東縣卑南鄉山里路108號",
+						"tel": "089-572370",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.827790532875,
+						24.608674737617
+					],
+					"properties": {
+						"landmarkid": "1000203057382",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵蘇澳新站",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮中山路二段238號",
+						"tel": "03-9961004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.851462646284,
+						24.5950781776913
+					],
+					"properties": {
+						"landmarkid": "1000203057383",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵蘇澳站",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮蘇南里太平路1號",
+						"tel": "03-9962028",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.84440686612,
+						24.5681698815026
+					],
+					"properties": {
+						"landmarkid": "1000203057384",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵永樂站",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮永樂里圳頭路60號",
+						"tel": "03-9961889",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.822951089866,
+						24.6156226594481
+					],
+					"properties": {
+						"landmarkid": "1000203057385",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新馬站",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮中山路二段322號",
+						"tel": "03-9961004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.800930025988,
+						24.4632327308809
+					],
+					"properties": {
+						"landmarkid": "1000203057386",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南澳站",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮南強里大通路22號",
+						"tel": "03-9981971",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.514577372121,
+						22.5127691618289
+					],
+					"properties": {
+						"landmarkid": "1001318057397",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵崁頂站",
+						"landmarkad": "1001318",
+						"address": "屏東縣屏東市崁頂鄉崁頂村中正路122號",
+						"tel": "08-7882739",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.572555695167,
+						22.3986419274909
+					],
+					"properties": {
+						"landmarkid": "1001316057400",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東海站",
+						"landmarkad": "1001316",
+						"address": "屏東縣枋寮鄉東海村西安路92號",
+						"tel": "08-8782041",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.595244148204,
+						22.3681760345696
+					],
+					"properties": {
+						"landmarkid": "1001316057401",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵枋寮站",
+						"landmarkad": "1001316",
+						"address": "屏東縣枋寮鄉枋寮村儲運路18號",
+						"tel": "08-8782041",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.784898008171,
+						23.8263842902515
+					],
+					"properties": {
+						"landmarkid": "1000805057414",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵集集站(集集線)",
+						"landmarkad": "1000805",
+						"address": "南投縣集集鎮民生路75號",
+						"tel": "049-2762546",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.749792750513,
+						23.8353001731951
+					],
+					"properties": {
+						"landmarkid": "1000805057415",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龍泉站(集集線)",
+						"landmarkad": "1000805",
+						"address": "南投縣集集鎮隘寮村(無站房)",
+						"tel": "04-8792027",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.823799805913,
+						24.6011269922435
+					],
+					"properties": {
+						"landmarkid": "1000506057419",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵豐富站(山)",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮新港路116號",
+						"tel": "037-260031",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.787128054677,
+						24.616143691411
+					],
+					"properties": {
+						"landmarkid": "1000506057420",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵後龍站(海)",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮南龍里車站街127號",
+						"tel": "037-728616",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.758062019359,
+						24.6118753060272
+					],
+					"properties": {
+						"landmarkid": "1000506057421",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龍港站(海)",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮龍京里7鄰公司寮85號",
+						"tel": "037-728616",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.803529114003,
+						24.6455639794982
+					],
+					"properties": {
+						"landmarkid": "1000506057422",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大山站(海)",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮大山里明山路180號",
+						"tel": "037-728616",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.922577802741,
+						24.9666709383057
+					],
+					"properties": {
+						"landmarkid": "1000204057439",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大里站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮大里里濱海路六段326號",
+						"tel": "03-9781171",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.822383716994,
+						24.8589712393153
+					],
+					"properties": {
+						"landmarkid": "1000204057440",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵頭城站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮城北里纘祥路59號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.889816498957,
+						24.9384672725093
+					],
+					"properties": {
+						"landmarkid": "1000204057441",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大溪站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮大溪里濱海路五段63號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.868472672157,
+						24.9049148427475
+					],
+					"properties": {
+						"landmarkid": "1000204057442",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龜山站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮更新里濱海路三段261號",
+						"tel": "03-9770351",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.808393364808,
+						24.8435178983147
+					],
+					"properties": {
+						"landmarkid": "1000204057443",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵頂埔站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮下埔里下埔路4-8號",
+						"tel": "03-9886940",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.945363390371,
+						24.9783385503995
+					],
+					"properties": {
+						"landmarkid": "1000204057444",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵石城站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮石城里濱海路七段230號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.845280470986,
+						24.8835435888816
+					],
+					"properties": {
+						"landmarkid": "1000204057445",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵外澳站",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮外澳里濱海路二段217號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.799904797233,
+						25.1375302503822
+					],
+					"properties": {
+						"landmarkid": "1001701057454",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵海科館站",
+						"landmarkad": "1001701",
+						"address": "基隆市中正區長潭里",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.713567201463,
+						25.0935583070524
+					],
+					"properties": {
+						"landmarkid": "1001702057457",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵七堵站",
+						"landmarkad": "1001702",
+						"address": "基隆市七堵區長興里東新街2號之1",
+						"tel": "02-24553426",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.693958253764,
+						25.0779644519248
+					],
+					"properties": {
+						"landmarkid": "1001702057458",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵百福站",
+						"landmarkad": "1001702",
+						"address": "基隆市明德三路1-1號",
+						"tel": "02-24528372",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.582190840303,
+						23.9673941035737
+					],
+					"properties": {
+						"landmarkid": "1001505057486",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵吉安站",
+						"landmarkad": "1001505",
+						"address": "花蓮縣吉安鄉南昌街200號",
+						"tel": "03-8539423",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.424430785448,
+						24.9913687139911
+					],
+					"properties": {
+						"landmarkid": "6500007057665",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵樹林站",
+						"landmarkad": "6500007",
+						"address": "新北市樹林區樹北里鎮前街112號",
+						"tel": "02-26812052",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.392583621231,
+						24.9726914961299
+					],
+					"properties": {
+						"landmarkid": "6500007057666",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵山佳站",
+						"landmarkad": "6500007",
+						"address": "新北市樹林區中山里中山路3段108號",
+						"tel": "02-26808874",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.355184984405,
+						24.9545325242792
+					],
+					"properties": {
+						"landmarkid": "6500008057667",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鶯歌站",
+						"landmarkad": "6500008",
+						"address": "新北市鶯歌區東鶯里文化路68-1號",
+						"tel": "02-26792004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.45466401917,
+						23.4876208379956
+					],
+					"properties": {
+						"landmarkid": "1002001057668",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路北門站",
+						"landmarkad": "1002001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.754390068913,
+						23.4927298408423
+					],
+					"properties": {
+						"landmarkid": "1001018057669",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路十字路站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.730866415298,
+						23.4980654439992
+					],
+					"properties": {
+						"landmarkid": "1001018057670",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路多林站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.65960524985,
+						23.5043606551014
+					],
+					"properties": {
+						"landmarkid": "1001014057671",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路水社寮站",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.694901680204,
+						23.5053472427296
+					],
+					"properties": {
+						"landmarkid": "1001014057672",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路奮起湖站",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.790058107593,
+						23.5089545109877
+					],
+					"properties": {
+						"landmarkid": "1001018057673",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路二萬坪站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.804433566783,
+						23.5099260290349
+					],
+					"properties": {
+						"landmarkid": "1001018057674",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路阿里山站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.822940388069,
+						23.5100510181215
+					],
+					"properties": {
+						"landmarkid": "1001018057675",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路祝山站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.780218582612,
+						23.5111356782811
+					],
+					"properties": {
+						"landmarkid": "1001018057676",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路屏遮那站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.813919867363,
+						23.5144652253663
+					],
+					"properties": {
+						"landmarkid": "1001018057677",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路沼平站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.807957235147,
+						23.518729220348
+					],
+					"properties": {
+						"landmarkid": "1001018057678",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路神木站",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.552612632267,
+						23.5253288480102
+					],
+					"properties": {
+						"landmarkid": "1001014057679",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路竹崎站",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.643861022189,
+						23.5316763234475
+					],
+					"properties": {
+						"landmarkid": "1001014057680",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路交力坪站",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.602668661873,
+						23.532785685886
+					],
+					"properties": {
+						"landmarkid": "1001014057681",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路樟腦寮站",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.607549873352,
+						23.538602989808
+					],
+					"properties": {
+						"landmarkid": "1001014057682",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路獨立山站",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.620042677158,
+						23.5423623533254
+					],
+					"properties": {
+						"landmarkid": "1001015057683",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路梨園寮站",
+						"landmarkad": "1001015",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.408861338033,
+						24.980582673886
+					],
+					"properties": {
+						"landmarkid": "6500007057706",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南樹林站",
+						"landmarkad": "6500007",
+						"address": "新北市樹林區中山路二段230號",
+						"tel": "02-26812052",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.183541079619,
+						24.9194902244193
+					],
+					"properties": {
+						"landmarkid": "6800004053196",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵埔心站分段點",
+						"landmarkad": "6800004",
+						"address": "桃園市楊梅區埔心里永美路208之1號",
+						"tel": "03-4827100",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.083135019715,
+						24.9341282979167
+					],
+					"properties": {
+						"landmarkid": "6800004053197",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富岡站分段點",
+						"landmarkad": "6800004",
+						"address": "桃園市楊梅區富岡里成功路37號",
+						"tel": "03-4723754",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.146429780614,
+						24.9142823131204
+					],
+					"properties": {
+						"landmarkid": "6800004053198",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵楊梅站分段點",
+						"landmarkad": "6800004",
+						"address": "桃園市楊梅區楊梅里大成路256號",
+						"tel": "03-4782893",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.258295030221,
+						24.9725430655619
+					],
+					"properties": {
+						"landmarkid": "6800002053217",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵內壢站分段點",
+						"landmarkad": "6800002",
+						"address": "桃園市中壢區中原里中華路一段267號",
+						"tel": "03-4559725",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.225770632172,
+						24.9533808829974
+					],
+					"properties": {
+						"landmarkid": "6800002053218",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵中壢站分段點",
+						"landmarkad": "6800002",
+						"address": "桃園市中壢區石頭里中和路139號",
+						"tel": "03-4223235",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.313612594072,
+						24.9890135803126
+					],
+					"properties": {
+						"landmarkid": "6800001053269",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵桃園站分段點",
+						"landmarkad": "6800001",
+						"address": "桃園市桃園區武陵里中正路1號",
+						"tel": "03-3323304",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.614828398229,
+						23.7598564839522
+					],
+					"properties": {
+						"landmarkid": "1000910053311",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵林內站分段點",
+						"landmarkad": "1000910",
+						"address": "雲林縣林內鄉中山路42號",
+						"tel": "05-5892040",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.541135068048,
+						23.7118488917666
+					],
+					"properties": {
+						"landmarkid": "1000901053361",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵斗六站分段點",
+						"landmarkad": "1000901",
+						"address": "雲林縣斗六市信義里民生路187號",
+						"tel": "05-5332900",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.579879170622,
+						23.7318040387457
+					],
+					"properties": {
+						"landmarkid": "1000901053362",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵石榴站分段點",
+						"landmarkad": "1000901",
+						"address": "雲林縣斗六市榴北里文明路26號",
+						"tel": "05-5332900",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.481092553442,
+						23.6727973528814
+					],
+					"properties": {
+						"landmarkid": "1000902053367",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵斗南站分段點",
+						"landmarkad": "1000902",
+						"address": "雲林縣斗南鎮南昌里中山路2號",
+						"tel": "05-5972039",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.470946420169,
+						23.6395177276464
+					],
+					"properties": {
+						"landmarkid": "1000902053368",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵石龜站分段點",
+						"landmarkad": "1000902",
+						"address": "雲林縣斗南鎮石溪里",
+						"tel": "05-5972039",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.219312694297,
+						23.1261996599515
+					],
+					"properties": {
+						"landmarkid": "1001406053377",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵池上站分段點",
+						"landmarkad": "1001406",
+						"address": "臺東縣池上鄉鐵花路30號",
+						"tel": "089-862097",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.177310976602,
+						23.1029497731398
+					],
+					"properties": {
+						"landmarkid": "1001403053384",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵海端站分段點",
+						"landmarkad": "1001403",
+						"address": "臺東縣關山鎮西莊49號",
+						"tel": "089-811033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.164548212939,
+						23.0456143781388
+					],
+					"properties": {
+						"landmarkid": "1001403053385",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵關山站分段點",
+						"landmarkad": "1001403",
+						"address": "臺東縣關山鎮博愛路2號",
+						"tel": "089-811033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.156097446447,
+						22.9800892039113
+					],
+					"properties": {
+						"landmarkid": "1001405053389",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞和站分段點",
+						"landmarkad": "1001405",
+						"address": "臺東縣鹿野鄉瑞和村瑞榮路1之1號",
+						"tel": "089-580159",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.137175088969,
+						22.9124758310382
+					],
+					"properties": {
+						"landmarkid": "1001405053390",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鹿野站分段點",
+						"landmarkad": "1001405",
+						"address": "臺東縣鹿野鄉中正路38號",
+						"tel": "089-550217",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.159235575626,
+						22.9559686915517
+					],
+					"properties": {
+						"landmarkid": "1001405053391",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞源站分段點",
+						"landmarkad": "1001405",
+						"address": "臺東縣鹿野鄉瑞景路一段336巷8號之1",
+						"tel": "089-580159",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.122402571339,
+						22.7938027753489
+					],
+					"properties": {
+						"landmarkid": "1001401053398",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺東站分段點",
+						"landmarkad": "1001401",
+						"address": "臺東縣臺東市岩灣路101巷598號",
+						"tel": "089-229687",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.093399138828,
+						22.7644551197027
+					],
+					"properties": {
+						"landmarkid": "1001401053399",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵康樂站分段點",
+						"landmarkad": "1001401",
+						"address": "臺東縣臺東市博物館路51巷131號",
+						"tel": "089-383107",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.061172943355,
+						22.7099438959123
+					],
+					"properties": {
+						"landmarkid": "1001401053400",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵知本站分段點",
+						"landmarkad": "1001401",
+						"address": "臺東縣臺東市知本路二段900巷85號",
+						"tel": "089-514482",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.004734382697,
+						22.6190137809091
+					],
+					"properties": {
+						"landmarkid": "1001409053425",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵太麻里站分段點",
+						"landmarkad": "1001409",
+						"address": "臺東縣太麻里鄉大王村276-13號",
+						"tel": "089-781544",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.942023643087,
+						22.4608671870048
+					],
+					"properties": {
+						"landmarkid": "1001409053426",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瀧溪站分段點",
+						"landmarkad": "1001409",
+						"address": "臺東縣太麻里鄉多良村大溪14鄰37之1號",
+						"tel": "089-761482",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.967559132068,
+						22.5314927394085
+					],
+					"properties": {
+						"landmarkid": "1001409053427",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵金崙站分段點",
+						"landmarkad": "1001409",
+						"address": "臺東縣太麻里鄉金崙村47-17號",
+						"tel": "089-771068",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.900558639441,
+						22.365451159186
+					],
+					"properties": {
+						"landmarkid": "1001410053430",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大武站分段點",
+						"landmarkad": "1001410",
+						"address": "臺東縣大武鄉大鳥村和平部落33號",
+						"tel": "089-792056",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.877784462919,
+						22.3457155817001
+					],
+					"properties": {
+						"landmarkid": "1001410053431",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵古莊站分段點",
+						"landmarkad": "1001410",
+						"address": "臺東縣大武鄉尚武村古莊83號",
+						"tel": "089-791820",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.253301625681,
+						23.0385733018102
+					],
+					"properties": {
+						"landmarkid": "6700031053434",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵永康站分段點",
+						"landmarkad": "6700031",
+						"address": "臺南市永康區埔園里中山路459號",
+						"tel": "06-2323305",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.224334583157,
+						23.0194514097458
+					],
+					"properties": {
+						"landmarkid": "6700031053435",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大橋站分段點",
+						"landmarkad": "6700031",
+						"address": "臺南市永康區中華路835號",
+						"tel": "06-3021755",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.286387717923,
+						22.9237757987439
+					],
+					"properties": {
+						"landmarkid": "6700028053451",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵沙崙站分段點",
+						"landmarkad": "6700028",
+						"address": "台南市歸仁區沙崙里9鄰歸仁大道102號",
+						"tel": "06-3032686",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.272204623568,
+						22.9071481030081
+					],
+					"properties": {
+						"landmarkid": "6700028053452",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵長榮大學站分段點",
+						"landmarkad": "6700028",
+						"address": "台南市歸仁區長榮一段200巷72弄126號",
+						"tel": "06-2782615",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.667592674586,
+						25.0779038102299
+					],
+					"properties": {
+						"landmarkid": "6500011053549",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵五堵站分段點",
+						"landmarkad": "6500011",
+						"address": "新北市汐止區長安里長安路17號",
+						"tel": "02-86476200",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.661695077921,
+						25.0683552473089
+					],
+					"properties": {
+						"landmarkid": "6500011053550",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵汐止站分段點",
+						"landmarkad": "6500011",
+						"address": "新北市汐止區信望里信義路1號",
+						"tel": "02-26415096",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.646664877382,
+						25.0625316524043
+					],
+					"properties": {
+						"landmarkid": "6500011053551",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵汐科站分段點",
+						"landmarkad": "6500011",
+						"address": "新北市汐止區大同路二段182號",
+						"tel": "02-23815226#8730",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.797542675971,
+						25.0498619204831
+					],
+					"properties": {
+						"landmarkid": "6500024053764",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大華站分段點",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區六分路12-1號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775267724342,
+						25.0410698068986
+					],
+					"properties": {
+						"landmarkid": "6500024053765",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵十分站分段點",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區十分街51號",
+						"tel": "02-24958307",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.76371241988,
+						25.0345803738738
+					],
+					"properties": {
+						"landmarkid": "6500024053766",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵望古站分段點",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區(無站房)",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.748035110305,
+						25.0300308168062
+					],
+					"properties": {
+						"landmarkid": "6500024053767",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵嶺腳站分段點",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區嶺腳街22號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.723715742699,
+						25.023911147533
+					],
+					"properties": {
+						"landmarkid": "6500024053768",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵菁桐站分段點",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區菁桐街52號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.740006642882,
+						25.0256242852585
+					],
+					"properties": {
+						"landmarkid": "6500024053769",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵平溪站分段點",
+						"landmarkad": "6500024",
+						"address": "新北市平溪區中華街12號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.464178862337,
+						25.0136390100924
+					],
+					"properties": {
+						"landmarkid": "6500001053897",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵板橋站分段點",
+						"landmarkad": "6500001",
+						"address": "新北市板橋區縣民大道二段7號",
+						"tel": "02-89691036",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.444738861264,
+						25.0042211304805
+					],
+					"properties": {
+						"landmarkid": "6500001053898",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵浮洲站分段點",
+						"landmarkad": "6500001",
+						"address": "新北市板橋區僑中二街156號",
+						"tel": "02-23815226#4665",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.85190104886,
+						25.0586426113754
+					],
+					"properties": {
+						"landmarkid": "6500025053963",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵牡丹站分段點",
+						"landmarkad": "6500025",
+						"address": "新北市雙溪區牡丹路159號",
+						"tel": "02-24932980",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.866900289671,
+						25.0385031434487
+					],
+					"properties": {
+						"landmarkid": "6500025053964",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵雙溪站分段點",
+						"landmarkad": "6500025",
+						"address": "新北市雙溪區新基里朝陽街1號",
+						"tel": "02-24932980",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.240410754959,
+						22.9236118365601
+					],
+					"properties": {
+						"landmarkid": "6700027054985",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵仁德站分段點",
+						"landmarkad": "6700027",
+						"address": "臺南市仁德區保安里永德路10號",
+						"tel": "06-2669383",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.252652869833,
+						22.9039636870284
+					],
+					"properties": {
+						"landmarkid": "6700027054986",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵中洲站分段點",
+						"landmarkad": "6700027",
+						"address": "臺南市仁德區中洲路298之1號",
+						"tel": "06-2667191",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.231858154928,
+						22.9330523828786
+					],
+					"properties": {
+						"landmarkid": "6700027054987",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵保安站分段點",
+						"landmarkad": "6700027",
+						"address": "臺南市仁德區保安里文賢路一段529巷10號",
+						"tel": "06-2665988",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.607050000469,
+						25.0532920531658
+					],
+					"properties": {
+						"landmarkid": "6300009055042",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南港站分段點",
+						"landmarkad": "6300009",
+						"address": "臺北市南港區南港路一段313號",
+						"tel": "02-27838645",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.517070037439,
+						25.0478488487328
+					],
+					"properties": {
+						"landmarkid": "6300005055195",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺北站分段點",
+						"landmarkad": "6300005",
+						"address": "臺北市中正區黎明里北平西路3號",
+						"tel": "02-23713558",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.306795028364,
+						23.1332902349419
+					],
+					"properties": {
+						"landmarkid": "6700019055682",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵善化站分段點",
+						"landmarkad": "6700019",
+						"address": "臺南市善化區中山路1號",
+						"tel": "06-5837301",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.301975494932,
+						23.1070157613524
+					],
+					"properties": {
+						"landmarkid": "6700020055688",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南科站分段點",
+						"landmarkad": "6700020",
+						"address": "台南市新市區大營里大營村287-300號",
+						"tel": "06-5896356",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.289921002994,
+						23.0683161892595
+					],
+					"properties": {
+						"landmarkid": "6700020055689",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新市站分段點",
+						"landmarkad": "6700020",
+						"address": "臺南市新市區新和里中華路1號",
+						"tel": "06-5996911",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.360435537675,
+						23.3662782797536
+					],
+					"properties": {
+						"landmarkid": "6700005055780",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵後壁站分段點",
+						"landmarkad": "6700005",
+						"address": "臺南市後壁區後壁里77號",
+						"tel": "06-6872055",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.32338226167,
+						23.3065570529728
+					],
+					"properties": {
+						"landmarkid": "6700001055786",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新營站分段點",
+						"landmarkad": "6700001",
+						"address": "臺南市新營區中營里中山路1號",
+						"tel": "06-6322104",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.577912967681,
+						25.049295108208
+					],
+					"properties": {
+						"landmarkid": "6300002055890",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵松山站分段點",
+						"landmarkad": "6300002",
+						"address": "臺北市信義區永吉里松山路11號",
+						"tel": "02-27673819",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.322603678617,
+						23.2776226854395
+					],
+					"properties": {
+						"landmarkid": "6700004055927",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵柳營站分段點",
+						"landmarkad": "6700004",
+						"address": "臺南市柳營區建國路1號",
+						"tel": "06-6226450",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.321070173733,
+						23.2418814023189
+					],
+					"properties": {
+						"landmarkid": "6700009055930",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵林鳳營站分段點",
+						"landmarkad": "6700009",
+						"address": "臺南市六甲區中社里林鳳營16號",
+						"tel": "06-6986086",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.319560716822,
+						23.1927313994188
+					],
+					"properties": {
+						"landmarkid": "6700010055934",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵隆田站分段點",
+						"landmarkad": "6700010",
+						"address": "臺南市官田區隆田里中山路一段1號",
+						"tel": "06-5791664",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.321147325535,
+						23.1726967383817
+					],
+					"properties": {
+						"landmarkid": "6700010055935",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵拔林站分段點",
+						"landmarkad": "6700010",
+						"address": "台南市官田區拔林里83之1號",
+						"tel": "06-5791664",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.723092724839,
+						24.2540388601668
+					],
+					"properties": {
+						"landmarkid": "6600009055973",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵豐原站(山)分段點",
+						"landmarkad": "6600009",
+						"address": "臺中市豐原區中正路1號",
+						"tel": "04-25207950",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.557328992859,
+						24.2371519436581
+					],
+					"properties": {
+						"landmarkid": "6600013055996",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵沙鹿站(海)分段點",
+						"landmarkad": "6600013",
+						"address": "臺中市沙鹿區中正街94號",
+						"tel": "04-26625057",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.705897984118,
+						24.2128118624898
+					],
+					"properties": {
+						"landmarkid": "6600017056013",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵潭子站(山)分段點",
+						"landmarkad": "6600017",
+						"address": "臺中市潭子區中山路二段352號",
+						"tel": "04-25319200",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.543115291935,
+						24.1975033478052
+					],
+					"properties": {
+						"landmarkid": "6600025056016",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龍井站(海)分段點",
+						"landmarkad": "6600025",
+						"address": "臺中市龍井區龍新路1號",
+						"tel": "04-26355578",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.700056154821,
+						24.1666856006394
+					],
+					"properties": {
+						"landmarkid": "6600008056047",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵太原站(山)分段點",
+						"landmarkad": "6600008",
+						"address": "臺中市東光路833號",
+						"tel": "04-22313926",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.212980599455,
+						22.997141883758
+					],
+					"properties": {
+						"landmarkid": "6700032056123",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺南站分段點",
+						"landmarkad": "6700032",
+						"address": "臺南市東區北門路二段4號",
+						"tel": "06-2261314",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.65438731602,
+						24.3778644085275
+					],
+					"properties": {
+						"landmarkid": "6600011056141",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵日南站(海)分段點",
+						"landmarkad": "6600011",
+						"address": "臺中市大甲區孟春里中山路二段140巷8號",
+						"tel": "04-26872022",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.627169820307,
+						24.3443478918391
+					],
+					"properties": {
+						"landmarkid": "6600011056142",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大甲站(海)分段點",
+						"landmarkad": "6600011",
+						"address": "臺中市大甲區中山路一段828號",
+						"tel": "04-26872022",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.741792568026,
+						24.3312992962831
+					],
+					"properties": {
+						"landmarkid": "6600015056151",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵泰安站(山)分段點",
+						"landmarkad": "6600015",
+						"address": "中巿后里區安眉路37-12號",
+						"tel": "04-25562038",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.733079905784,
+						24.3092432171899
+					],
+					"properties": {
+						"landmarkid": "6600015056152",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵后里站(山)分段點",
+						"landmarkad": "6600015",
+						"address": "臺中市后里區甲后路1號",
+						"tel": "04-25562038",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.602527232264,
+						24.3043308544492
+					],
+					"properties": {
+						"landmarkid": "6600012056161",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺中港站(海)分段點",
+						"landmarkad": "6600012",
+						"address": "臺中市清水區甲南路2號",
+						"tel": "04-26225374",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.568883082103,
+						24.2637313399092
+					],
+					"properties": {
+						"landmarkid": "6600012056162",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵清水站(海)分段點",
+						"landmarkad": "6600012",
+						"address": "臺中市清水區南社里中正街115號",
+						"tel": "04-26222021",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.542242696399,
+						24.1539862871979
+					],
+					"properties": {
+						"landmarkid": "6600024056175",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大肚站(海)分段點",
+						"landmarkad": "6600024",
+						"address": "臺中市大肚區平和街121號",
+						"tel": "04-26992523",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.570072893988,
+						24.120197813439
+					],
+					"properties": {
+						"landmarkid": "6600024056176",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵追分站(海)分段點",
+						"landmarkad": "6600024",
+						"address": "臺中市大肚區王田里追分街13號",
+						"tel": "04-26933106",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.622477542597,
+						24.108919155393
+					],
+					"properties": {
+						"landmarkid": "6600023056216",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵烏日站(山)分段點",
+						"landmarkad": "6600023",
+						"address": "臺中市烏日區三民街258號",
+						"tel": "04-23381071",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.613940221034,
+						24.1097812969474
+					],
+					"properties": {
+						"landmarkid": "6600023056217",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新烏日站(山)分段點",
+						"landmarkad": "6600023",
+						"address": "臺中市烏日區高鐵東一路",
+						"tel": "04-23376883",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.590253482288,
+						24.1143870147225
+					],
+					"properties": {
+						"landmarkid": "6600023056218",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵成功站(山)分段點",
+						"landmarkad": "6600023",
+						"address": "臺中市烏日區中山路三段550號",
+						"tel": "04-23371986",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.511331754126,
+						22.4579276166391
+					],
+					"properties": {
+						"landmarkid": "1001319056261",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鎮安站分段點",
+						"landmarkad": "1001319",
+						"address": "屏東縣林邊鄉鎮安村永和路4號",
+						"tel": "08-8642942",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.515372897817,
+						22.4314274982775
+					],
+					"properties": {
+						"landmarkid": "1001319056262",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵林邊站分段點",
+						"landmarkad": "1001319",
+						"address": "屏東縣林邊鄉仁和村仁愛路33號",
+						"tel": "08-8751475",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.547560973142,
+						22.4138211456878
+					],
+					"properties": {
+						"landmarkid": "1001321056265",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵佳冬站分段點",
+						"landmarkad": "1001321",
+						"address": "屏東縣佳冬鄉六根村復興路21號",
+						"tel": "08-8662939",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.624847908138,
+						22.3311214128301
+					],
+					"properties": {
+						"landmarkid": "1001325056268",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵加祿站分段點",
+						"landmarkad": "1001325",
+						"address": "屏東縣枋山鄉加祿村會社路53號",
+						"tel": "08-8720791",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.643571381188,
+						22.3063085915766
+					],
+					"properties": {
+						"landmarkid": "1001325056269",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵內獅站分段點",
+						"landmarkad": "1001325",
+						"address": "屏東縣枋山鄉加祿村南和路43號",
+						"tel": "08-8720791",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.659580473396,
+						22.2672524302279
+					],
+					"properties": {
+						"landmarkid": "1001332056272",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵枋山站分段點",
+						"landmarkad": "1001332",
+						"address": "屏東縣獅子鄉內獅村內獅巷84號",
+						"tel": "08-8720791",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.717031338136,
+						22.2809258779548
+					],
+					"properties": {
+						"landmarkid": "1001332056273",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵枋野站分段點",
+						"landmarkad": "1001332",
+						"address": "屏東縣獅子鄉內獅巷88號",
+						"tel": "08-8761953",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.68505713954,
+						24.1365898923963
+					],
+					"properties": {
+						"landmarkid": "6600001056331",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵臺中站(山)分段點",
+						"landmarkad": "6600001",
+						"address": "臺中市建國路172號",
+						"tel": "04-22227236",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.647657349006,
+						24.1188844684903
+					],
+					"properties": {
+						"landmarkid": "6600003056386",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大慶站(山)分段點",
+						"landmarkad": "6600003",
+						"address": "臺中市建國路80號(對面)",
+						"tel": "04-22637940",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.486174537049,
+						22.6691289376536
+					],
+					"properties": {
+						"landmarkid": "1001301056401",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵屏東站分段點",
+						"landmarkad": "1001301",
+						"address": "屏東縣屏東市光復路43號",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.502965765324,
+						22.6521957934468
+					],
+					"properties": {
+						"landmarkid": "1001301056402",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵歸來站分段點",
+						"landmarkad": "1001301",
+						"address": "屏東縣屏東市歸來里歸仁路5-4號",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.4650386777,
+						22.6657048974064
+					],
+					"properties": {
+						"landmarkid": "1001301056403",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵六塊厝站分段點",
+						"landmarkad": "1001301",
+						"address": "屏東縣屏東市長安里光復路392號",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.51443314812,
+						22.6348560064286
+					],
+					"properties": {
+						"landmarkid": "1001307056411",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵麟洛站分段點",
+						"landmarkad": "1001307",
+						"address": "屏東縣麟洛鄉田道村緀仔一路",
+						"tel": "08-7655240",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.526556493992,
+						22.6163612261861
+					],
+					"properties": {
+						"landmarkid": "1001314056417",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵西勢站分段點",
+						"landmarkad": "1001314",
+						"address": "屏東縣竹田鄉西勢村西豐路2號",
+						"tel": "08-7784521",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.539918999619,
+						22.5864688716652
+					],
+					"properties": {
+						"landmarkid": "1001314056418",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹田站分段點",
+						"landmarkad": "1001314",
+						"address": "屏東縣竹田鄉履豐村豐明路27-1號",
+						"tel": "08-7711002",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.536370399961,
+						22.5500892437669
+					],
+					"properties": {
+						"landmarkid": "1001302056423",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵潮州站分段點",
+						"landmarkad": "1001302",
+						"address": "屏東縣潮州鎮信義路111號",
+						"tel": "08-7882739",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.512218710197,
+						22.4920470224799
+					],
+					"properties": {
+						"landmarkid": "1001320056429",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南州站分段點",
+						"landmarkad": "1001320",
+						"address": "屏東縣南州鄉仁里村仁里路86號",
+						"tel": "08-8642942",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.69540812899,
+						24.5401342481571
+					],
+					"properties": {
+						"landmarkid": "1000503056437",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新埔站(海)分段點",
+						"landmarkad": "1000503",
+						"address": "苗栗縣通霄鎮新埔里8鄰57號",
+						"tel": "037-793066",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.678150687866,
+						24.4915958292179
+					],
+					"properties": {
+						"landmarkid": "1000503056438",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵通霄站(海)分段點",
+						"landmarkad": "1000503",
+						"address": "苗栗縣通霄鎮通西里中山路109號",
+						"tel": "037-758300",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.70797919196,
+						24.5649111164652
+					],
+					"properties": {
+						"landmarkid": "1000503056439",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵白沙屯站(海)分段點",
+						"landmarkad": "1000503",
+						"address": "苗栗縣通霄鎮白西里131號",
+						"tel": "037-793066",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.704793944766,
+						23.8344577271203
+					],
+					"properties": {
+						"landmarkid": "1000806056444",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵濁水站(集集線)分段點",
+						"landmarkad": "1000806",
+						"address": "南投縣名間鄉濁水村車站路53號",
+						"tel": "049-2735850",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.853170250848,
+						23.8186548929633
+					],
+					"properties": {
+						"landmarkid": "1000811056449",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵水里站(集集線)分段點",
+						"landmarkad": "1000811",
+						"address": "南投縣水里鄉民生路442號",
+						"tel": "049-2770015",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.865985612748,
+						23.8324479642559
+					],
+					"properties": {
+						"landmarkid": "1000811056450",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵車埕站(集集線)分段點",
+						"landmarkad": "1000811",
+						"address": "南投縣水里鄉車埕村民權巷2號",
+						"tel": "049-2774749",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.871666332484,
+						24.7230219877784
+					],
+					"properties": {
+						"landmarkid": "1000504056458",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵崎頂站分段點",
+						"landmarkad": "1000504",
+						"address": "苗栗縣竹南鎮崎頂里北戶55號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.880637565714,
+						24.6866140035484
+					],
+					"properties": {
+						"landmarkid": "1000504056459",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹南站分段點",
+						"landmarkad": "1000504",
+						"address": "苗栗縣竹南鎮中山路166號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.867416738039,
+						24.6416928613079
+					],
+					"properties": {
+						"landmarkid": "1000515056472",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵造橋站(山)分段點",
+						"landmarkad": "1000515",
+						"address": "苗栗縣造橋鄉造橋村平仁路54號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.858185293816,
+						24.6565486996737
+					],
+					"properties": {
+						"landmarkid": "1000515056473",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵談文站(海)分段點",
+						"landmarkad": "1000515",
+						"address": "苗栗縣造橋鄉談文村仁愛路29號",
+						"tel": "037-472030",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.786010401438,
+						24.4863526805223
+					],
+					"properties": {
+						"landmarkid": "1000510056476",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵銅鑼站(山)分段點",
+						"landmarkad": "1000510",
+						"address": "苗栗縣銅鑼鄉銅鑼村大同路13號",
+						"tel": "037-983838",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.651209954324,
+						24.4435342980517
+					],
+					"properties": {
+						"landmarkid": "1000502056479",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵苑裡站(海)分段點",
+						"landmarkad": "1000502",
+						"address": "苗栗縣苑裡鎮中山路165號",
+						"tel": "037-851013",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.822114035294,
+						24.5699912803033
+					],
+					"properties": {
+						"landmarkid": "1000501056495",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵苗栗站(山)分段點",
+						"landmarkad": "1000501",
+						"address": "苗栗縣苗栗市為公路1號",
+						"tel": "037-260031",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.791310959238,
+						24.5226175174375
+					],
+					"properties": {
+						"landmarkid": "1000501056496",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南勢站(山)分段點",
+						"landmarkad": "1000501",
+						"address": "苗栗縣苗栗市新英里南勢39號",
+						"tel": "037-260031",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.774238926693,
+						24.4206219330332
+					],
+					"properties": {
+						"landmarkid": "1000513056507",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三義站(山)分段點",
+						"landmarkad": "1000513",
+						"address": "苗栗縣三義鄉雙湖村90號",
+						"tel": "037-874763",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.600949870725,
+						23.9928855211006
+					],
+					"properties": {
+						"landmarkid": "1001501056512",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵花蓮站分段點",
+						"landmarkad": "1001501",
+						"address": "花蓮市國聯一路100號",
+						"tel": "03-8355941",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.60596075207,
+						24.0032039250536
+					],
+					"properties": {
+						"landmarkid": "1001501056513",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵花蓮港站分段點",
+						"landmarkad": "1001501",
+						"address": "花蓮市港口街2號",
+						"tel": "03-8222468",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.739192746474,
+						25.132451813016
+					],
+					"properties": {
+						"landmarkid": "1001704056517",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵基隆站分段點",
+						"landmarkad": "1001704",
+						"address": "基隆市仁愛區文昌里港西街5號",
+						"tel": "02-24263743",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.742036985438,
+						25.1230543681635
+					],
+					"properties": {
+						"landmarkid": "1001704056521",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三坑站分段點",
+						"landmarkad": "1001704",
+						"address": "基隆市仁愛區龍安街206號",
+						"tel": "02-24230289",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.728940540695,
+						25.1085466466956
+					],
+					"properties": {
+						"landmarkid": "1001703056524",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵八堵站分段點",
+						"landmarkad": "1001703",
+						"address": "基隆市暖暖區八南里八堵路142號",
+						"tel": "02-24560841",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.740330567075,
+						25.1022109494822
+					],
+					"properties": {
+						"landmarkid": "1001703056525",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵暖暖站分段點",
+						"landmarkad": "1001703",
+						"address": "基隆市暖暖街51號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.254305530504,
+						22.8782893852126
+					],
+					"properties": {
+						"landmarkid": "6400024056532",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大湖站分段點",
+						"landmarkad": "6400024",
+						"address": "高雄市路竹區甲南里天佑路24號",
+						"tel": "07-6932127",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.266510477229,
+						22.8540783033104
+					],
+					"properties": {
+						"landmarkid": "6400024056533",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵路竹站分段點",
+						"landmarkad": "6400024",
+						"address": "高雄市路竹區竹南里中正路288號",
+						"tel": "07-6072723",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.30068616868,
+						22.7923374046096
+					],
+					"properties": {
+						"landmarkid": "6400019056535",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵岡山站分段點",
+						"landmarkad": "6400019",
+						"address": "高雄市岡山區岡燕路111號",
+						"tel": "07-6212074",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.310465509613,
+						22.7609690415068
+					],
+					"properties": {
+						"landmarkid": "6400020056545",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵橋頭站分段點",
+						"landmarkad": "6400020",
+						"address": "高雄市橋頭區橋頭里站前街14號",
+						"tel": "07-6115424",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.421433388491,
+						22.65635587658
+					],
+					"properties": {
+						"landmarkid": "6400015056559",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵九曲堂站分段點",
+						"landmarkad": "6400015",
+						"address": "高雄市大樹區久堂里鐵路巷15號",
+						"tel": "07-6512020",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.357735645228,
+						22.6315468009078
+					],
+					"properties": {
+						"landmarkid": "6400012056562",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鳳山站分段點",
+						"landmarkad": "6400012",
+						"address": "高雄市鳳山區曹公路70號",
+						"tel": "07-7460423",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.39125571365,
+						22.6404118095493
+					],
+					"properties": {
+						"landmarkid": "6400014056581",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵後庄站分段點",
+						"landmarkad": "6400014",
+						"address": "高雄市大寮區民慶街9號",
+						"tel": "07-7020149",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.324263368041,
+						22.7270694508788
+					],
+					"properties": {
+						"landmarkid": "6400004056587",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵楠梓站分段點",
+						"landmarkad": "6400004",
+						"address": "高雄市楠梓區建楠路229號",
+						"tel": "07-3510175",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.307141241926,
+						22.6872000061116
+					],
+					"properties": {
+						"landmarkid": "6400003056624",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新左營站分段點",
+						"landmarkad": "6400003",
+						"address": "高雄市左營區尾北里站前北路1號",
+						"tel": "07-5887825",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.294957844404,
+						22.6750527666778
+					],
+					"properties": {
+						"landmarkid": "6400003056625",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵左營站分段點",
+						"landmarkad": "6400003",
+						"address": "高雄市左營區勝利路1號",
+						"tel": "07-5887825",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.302133349819,
+						22.6397753078608
+					],
+					"properties": {
+						"landmarkid": "6400005056651",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵高雄站分段點",
+						"landmarkad": "6400005",
+						"address": "高雄市三民區建國二路318號",
+						"tel": "07-2352376",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.83046720675,
+						24.5181914703975
+					],
+					"properties": {
+						"landmarkid": "1000212056756",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東澳站分段點",
+						"landmarkad": "1000212",
+						"address": "宜蘭縣南澳鄉東岳村1號",
+						"tel": "03-9986053",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.768674591267,
+						24.3353307263849
+					],
+					"properties": {
+						"landmarkid": "1000212056757",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵漢本站分段點",
+						"landmarkad": "1000212",
+						"address": "宜蘭縣南澳鄉澳花村蘇花路一段56號",
+						"tel": "03-9985238",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775802129962,
+						24.4486462853142
+					],
+					"properties": {
+						"landmarkid": "1000212056758",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵武塔站分段點",
+						"landmarkad": "1000212",
+						"address": "宜蘭縣南澳鄉武塔村新溪路18號",
+						"tel": "03-9981971",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.61076936705,
+						24.0904207683564
+					],
+					"properties": {
+						"landmarkid": "1001511056780",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵景美站分段點",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉加灣178-1號",
+						"tel": "03-8611237",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.754839671199,
+						24.2978735286902
+					],
+					"properties": {
+						"landmarkid": "1001511056781",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵和平站分段點",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉和平村276號",
+						"tel": "03-8681009",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.712637464325,
+						24.2417310761279
+					],
+					"properties": {
+						"landmarkid": "1001511056782",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵和仁站分段點",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉和仁路71號",
+						"tel": "03-8681221",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.65581051315,
+						24.1720824197292
+					],
+					"properties": {
+						"landmarkid": "1001511056783",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵崇德站分段點",
+						"landmarkad": "1001511",
+						"address": "花蓮縣秀林鄉海濱路96號",
+						"tel": "03-8621365",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.908596702277,
+						25.0218359881208
+					],
+					"properties": {
+						"landmarkid": "6500026056790",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵貢寮站分段點",
+						"landmarkad": "6500026",
+						"address": "新北市貢寮區貢寮里朝陽街33號",
+						"tel": "02-24941500",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.94467300618,
+						25.0156495263242
+					],
+					"properties": {
+						"landmarkid": "6500026056791",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵福隆站分段點",
+						"landmarkad": "6500026",
+						"address": "新北市貢寮區福隆里福隆街2號",
+						"tel": "02-24991800",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.640452461488,
+						24.1277072776515
+					],
+					"properties": {
+						"landmarkid": "1001504056796",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新城站分段點",
+						"landmarkad": "1001504",
+						"address": "花蓮縣新城鄉新城村新興1路73號",
+						"tel": "03-8611237",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.601405966327,
+						24.032497575963
+					],
+					"properties": {
+						"landmarkid": "1001504056797",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵北埔站分段點",
+						"landmarkad": "1001504",
+						"address": "花蓮縣新城鄉自強街113號",
+						"tel": "03-8263809",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.80617045443,
+						25.1090214285271
+					],
+					"properties": {
+						"landmarkid": "6500012056807",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞芳站分段點",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區龍潭里明燈路三段82號",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.82720149804,
+						25.0871406710995
+					],
+					"properties": {
+						"landmarkid": "6500012056808",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵猴硐站分段點",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區光復里柴寮路70號",
+						"tel": "02-24977747",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.761873731234,
+						25.1025837639713
+					],
+					"properties": {
+						"landmarkid": "6500012056809",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵四腳亭站分段點",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區吉慶里中央路65號",
+						"tel": "02-24579346",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.822509502898,
+						25.0655423608409
+					],
+					"properties": {
+						"landmarkid": "6500012056810",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三貂嶺站分段點",
+						"landmarkad": "6500012",
+						"address": "新北市瑞芳區碩仁里魚寮路1號",
+						"tel": "02-24977896",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.762744525771,
+						24.7867983681879
+					],
+					"properties": {
+						"landmarkid": "1000205056822",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵四城站分段點",
+						"landmarkad": "1000205",
+						"address": "宜蘭縣礁溪鄉吳沙村站前路24號",
+						"tel": "03-9282449",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775499338153,
+						24.8269309076471
+					],
+					"properties": {
+						"landmarkid": "1000205056823",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵礁溪站分段點",
+						"landmarkad": "1000205",
+						"address": "宜蘭縣礁溪鄉德陽村溫泉路1號",
+						"tel": "03-9886940",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.757963407091,
+						24.7545189861841
+					],
+					"properties": {
+						"landmarkid": "1000201056843",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵宜蘭站分段點",
+						"landmarkad": "1000201",
+						"address": "宜蘭縣宜蘭市和睦里光復路1號",
+						"tel": "03-9323801",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.774640580655,
+						24.6779280837099
+					],
+					"properties": {
+						"landmarkid": "1000202056865",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵羅東站分段點",
+						"landmarkad": "1000202",
+						"address": "宜蘭縣羅東鎮大新里公正路2號",
+						"tel": "03-9542117",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.774538600645,
+						24.7053433104789
+					],
+					"properties": {
+						"landmarkid": "1000209056873",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵二結站分段點",
+						"landmarkad": "1000209",
+						"address": "宜蘭縣五結鄉三興村復興中路37號",
+						"tel": "03-9650304",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.775250940354,
+						24.6941659692265
+					],
+					"properties": {
+						"landmarkid": "1000209056874",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵中里站分段點",
+						"landmarkad": "1000209",
+						"address": "宜蘭縣五結鄉台興路10號",
+						"tel": "03-9542117",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.79235103696,
+						24.6364992713708
+					],
+					"properties": {
+						"landmarkid": "1000208056880",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵冬山站分段點",
+						"landmarkad": "1000208",
+						"address": "宜蘭縣冬山鄉冬山村中正路1號",
+						"tel": "03-9594221",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.420938810094,
+						23.6663453834276
+					],
+					"properties": {
+						"landmarkid": "1001507056883",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵光復站分段點",
+						"landmarkad": "1001507",
+						"address": "花蓮縣光復鄉中正路一段2-1號",
+						"tel": "03-8704143",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.389414276623,
+						23.6056994959325
+					],
+					"properties": {
+						"landmarkid": "1001507056884",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大富站分段點",
+						"landmarkad": "1001507",
+						"address": "花蓮縣光復鄉明德路1號",
+						"tel": "03-8811824",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.055753790567,
+						24.9222154582232
+					],
+					"properties": {
+						"landmarkid": "1000405056894",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵北湖站分段點",
+						"landmarkad": "1000405",
+						"address": "新竹縣湖口鄉東興村北湖路1號",
+						"tel": "03-5993850",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.043873874675,
+						24.9029870523881
+					],
+					"properties": {
+						"landmarkid": "1000405056895",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵湖口站分段點",
+						"landmarkad": "1000405",
+						"address": "新竹縣湖口鄉仁勢村中山路二段121號",
+						"tel": "03-5992192",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.055570832049,
+						24.7779527016615
+					],
+					"properties": {
+						"landmarkid": "1000402056910",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵上員站(內灣線)分段點",
+						"landmarkad": "1000402",
+						"address": "新竹縣竹東鎮上員里(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.094931509877,
+						24.7383940057847
+					],
+					"properties": {
+						"landmarkid": "1000402056911",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹東站(內灣線)分段點",
+						"landmarkad": "1000402",
+						"address": "新竹縣竹東鎮雞林里東林路196號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.030712966354,
+						24.7816322754572
+					],
+					"properties": {
+						"landmarkid": "1000402056912",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹中站(內灣線)分段點",
+						"landmarkad": "1000402",
+						"address": "新竹縣頭重里竹中路145號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.083052489596,
+						24.7485474848752
+					],
+					"properties": {
+						"landmarkid": "1000402056913",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵榮華站(內灣線)分段點",
+						"landmarkad": "1000402",
+						"address": "新竹縣竹東鎮仁愛里(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.116571800374,
+						24.7206880494446
+					],
+					"properties": {
+						"landmarkid": "1000408056924",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵橫山站(內灣線)分段點",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉橫山村橫山路97號(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.13612440506,
+						24.720491675868
+					],
+					"properties": {
+						"landmarkid": "1000408056925",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵九讚頭站(內灣線)分段點",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉中豐路二段286巷29號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.182673356574,
+						24.7053438559758
+					],
+					"properties": {
+						"landmarkid": "1000408056926",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵內灣站(內灣線)分段點",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉中正路6號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.167325886342,
+						24.7154731507759
+					],
+					"properties": {
+						"landmarkid": "1000408056927",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富貴站(內灣線)分段點",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉(無站房)",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.154552035977,
+						24.7165132337203
+					],
+					"properties": {
+						"landmarkid": "1000408056928",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵合興站(內灣線)分段點",
+						"landmarkad": "1000408",
+						"address": "新竹縣橫山鄉中山街一段17號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.52934338246,
+						23.9075184074222
+					],
+					"properties": {
+						"landmarkid": "1001506056941",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵志學站分段點",
+						"landmarkad": "1001506",
+						"address": "花蓮縣壽豐鄉中正路1號",
+						"tel": "03-8662966",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.520710091085,
+						23.8826353967101
+					],
+					"properties": {
+						"landmarkid": "1001506056942",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵平和站分段點",
+						"landmarkad": "1001506",
+						"address": "平和站",
+						"tel": "03-8653706",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.510865590856,
+						23.8688782343389
+					],
+					"properties": {
+						"landmarkid": "1001506056943",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵壽豐站分段點",
+						"landmarkad": "1001506",
+						"address": "花蓮縣壽豐鄉壽山路1號",
+						"tel": "03-8653706",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.496031909312,
+						23.8485531016191
+					],
+					"properties": {
+						"landmarkid": "1001506056944",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵豐田站分段點",
+						"landmarkad": "1001506",
+						"address": "花蓮縣壽豐鄉站前街36號",
+						"tel": "03-8654251",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.446826538047,
+						23.7464233149521
+					],
+					"properties": {
+						"landmarkid": "1001502056948",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鳳林站分段點",
+						"landmarkad": "1001502",
+						"address": "花蓮縣鳳林鎮中山路43號",
+						"tel": "03-8762004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.418909034489,
+						23.7120852982729
+					],
+					"properties": {
+						"landmarkid": "1001502056949",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵萬榮站分段點",
+						"landmarkad": "1001502",
+						"address": "花蓮縣鳳林鎮長德街17號",
+						"tel": "03-8752175",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.4580914943,
+						23.782301986417
+					],
+					"properties": {
+						"landmarkid": "1001502056950",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南平站分段點",
+						"landmarkad": "1001502",
+						"address": "花蓮縣鳳林鎮自強路233號",
+						"tel": "03-8771597",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.380252389934,
+						23.5802451711887
+					],
+					"properties": {
+						"landmarkid": "1001509056953",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富源站分段點",
+						"landmarkad": "1001509",
+						"address": "花蓮縣瑞穗鄉富源路2號",
+						"tel": "03-8811824",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.376638893508,
+						23.4973638492046
+					],
+					"properties": {
+						"landmarkid": "1001509056954",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵瑞穗站分段點",
+						"landmarkad": "1001509",
+						"address": "花蓮縣瑞穗鄉四維街13號",
+						"tel": "03-8875039",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.345239254402,
+						23.4245552520065
+					],
+					"properties": {
+						"landmarkid": "1001503056957",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三民站分段點",
+						"landmarkad": "1001503",
+						"address": "花蓮縣玉里鎮三民路10號",
+						"tel": "03-8841847",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.311585258014,
+						23.3315377459857
+					],
+					"properties": {
+						"landmarkid": "1001503056958",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵玉里站分段點",
+						"landmarkad": "1001503",
+						"address": "花蓮縣玉里鎮康樂街39號",
+						"tel": "03-8882020",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.302547025141,
+						23.2694641830265
+					],
+					"properties": {
+						"landmarkid": "1001510056963",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東里站分段點",
+						"landmarkad": "1001510",
+						"address": "花蓮縣富里鄉大莊路15號之6",
+						"tel": "03-8861005",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.278319962754,
+						23.2260831463929
+					],
+					"properties": {
+						"landmarkid": "1001510056964",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東竹站分段點",
+						"landmarkad": "1001510",
+						"address": "花蓮縣富里鄉新興村26號",
+						"tel": "03-8821504",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.248525134778,
+						23.1792081983327
+					],
+					"properties": {
+						"landmarkid": "1001510056965",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵富里站分段點",
+						"landmarkad": "1001510",
+						"address": "花蓮縣富里鄉車站街56號",
+						"tel": "03-8831771",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.996946524758,
+						24.8695731305957
+					],
+					"properties": {
+						"landmarkid": "1000406056968",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新豐站分段點",
+						"landmarkad": "1000406",
+						"address": "新竹縣新豐鄉員山村新興路202號",
+						"tel": "03-5596314",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.009331300387,
+						24.8392363417051
+					],
+					"properties": {
+						"landmarkid": "1000401057010",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵竹北站分段點",
+						"landmarkad": "1000401",
+						"address": "新竹縣竹北市福德里和平街59號",
+						"tel": "03-5552024",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.039422273788,
+						24.8074235849934
+					],
+					"properties": {
+						"landmarkid": "1000401057011",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵六家站(內灣線)分段點",
+						"landmarkad": "1000401",
+						"address": "新竹縣竹北市復興三路二段229號",
+						"tel": "03-5962042",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.002706961676,
+						24.8068656365459
+					],
+					"properties": {
+						"landmarkid": "1001801057076",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵千甲站分段點",
+						"landmarkad": "1001801",
+						"address": "新竹市水源里千甲路142號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.983900144599,
+						24.8086398244845
+					],
+					"properties": {
+						"landmarkid": "1001801057077",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵北新竹分段點",
+						"landmarkad": "1001801",
+						"address": "新竹市中華路一段291之2號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.971802378411,
+						24.8014888034262
+					],
+					"properties": {
+						"landmarkid": "1001801057078",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新竹站分段點",
+						"landmarkad": "1001801",
+						"address": "新竹市榮光里中華路二段445號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.021999823375,
+						24.7881918881352
+					],
+					"properties": {
+						"landmarkid": "1001801057079",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新莊站分段點",
+						"landmarkad": "1001801",
+						"address": "新竹市新莊里關東路310號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.914025557082,
+						24.7630782005664
+					],
+					"properties": {
+						"landmarkid": "1001803057094",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵香山站分段點",
+						"landmarkad": "1001803",
+						"address": "新竹市朝山里中華路五段347巷2弄27號",
+						"tel": "03-5237441",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.928874770898,
+						24.7875446625649
+					],
+					"properties": {
+						"landmarkid": "1001803057095",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵三姓橋站分段點",
+						"landmarkad": "1001803",
+						"address": "新竹市香山區元培街32巷30號",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.456020738942,
+						23.6009245852769
+					],
+					"properties": {
+						"landmarkid": "1001004057098",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大林站分段點",
+						"landmarkad": "1001004",
+						"address": "嘉義縣大林鎮吉林里中山路2號",
+						"tel": "05-2654804",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.431545299646,
+						23.555067234009
+					],
+					"properties": {
+						"landmarkid": "1001005057105",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵民雄站分段點",
+						"landmarkad": "1001005",
+						"address": "嘉義縣民雄鄉東榮村和平路2號",
+						"tel": "05-2264272",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.448318068751,
+						23.5002655951865
+					],
+					"properties": {
+						"landmarkid": "1002001057109",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵嘉北站分段點",
+						"landmarkad": "1002001",
+						"address": "嘉義市後湖里保健街110號",
+						"tel": "05-2334584",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.440802031339,
+						23.4793267481631
+					],
+					"properties": {
+						"landmarkid": "1002002057111",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵嘉義站分段點",
+						"landmarkad": "1002002",
+						"address": "嘉義市中山路528號(含前、後站)",
+						"tel": "05-2228904",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.537980598115,
+						24.0820185265878
+					],
+					"properties": {
+						"landmarkid": "1000701057140",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵彰化站分段點",
+						"landmarkad": "1000701",
+						"address": "彰化縣彰化市三民路1號",
+						"tel": "04-7278263",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.39977611946,
+						23.4339191796914
+					],
+					"properties": {
+						"landmarkid": "1001012057151",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵水上站分段點",
+						"landmarkad": "1001012",
+						"address": "嘉義縣水上鄉粗溪村68號",
+						"tel": "05-2228904",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.38684401585,
+						23.4133722112252
+					],
+					"properties": {
+						"landmarkid": "1001012057152",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南靖站分段點",
+						"landmarkad": "1001012",
+						"address": "嘉義縣水上鄉三鎮村26號",
+						"tel": "05-2228904",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.537263819178,
+						24.0249498308829
+					],
+					"properties": {
+						"landmarkid": "1000708057157",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵花壇站分段點",
+						"landmarkad": "1000708",
+						"address": "彰化縣花壇鄉中正路370號",
+						"tel": "04-7881418",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.560615610719,
+						23.9900430325992
+					],
+					"properties": {
+						"landmarkid": "1000713057160",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大村站分段點",
+						"landmarkad": "1000713",
+						"address": "彰化縣大村鄉過溝村福進路100號",
+						"tel": "04-8525148",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.569459343508,
+						23.9593277567476
+					],
+					"properties": {
+						"landmarkid": "1000710057165",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵員林站分段點",
+						"landmarkad": "1000710",
+						"address": "彰化縣員林鎮民權街55號",
+						"tel": "04-8320544",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.571714699617,
+						23.9281581853815
+					],
+					"properties": {
+						"landmarkid": "1000716057182",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵永靖站分段點",
+						"landmarkad": "1000716",
+						"address": "彰化縣永靖鄉崙子村永崙路25號",
+						"tel": "04-8320544",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.58066147599,
+						23.8956822528204
+					],
+					"properties": {
+						"landmarkid": "1000717057184",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵社頭站分段點",
+						"landmarkad": "1000717",
+						"address": "彰化縣社頭鄉廣興村社站路10號",
+						"tel": "04-8711646",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.591540331452,
+						23.858553498227
+					],
+					"properties": {
+						"landmarkid": "1000712057193",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵田中站分段點",
+						"landmarkad": "1000712",
+						"address": "彰化縣田中鎮中州路一段1號",
+						"tel": "04-8742142",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.642029422269,
+						23.7984887384241
+					],
+					"properties": {
+						"landmarkid": "1000718057206",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵源泉站(集集線)分段點",
+						"landmarkad": "1000718",
+						"address": "彰化縣二水鄉合興村英義路(無站房)",
+						"tel": "04-8792027",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.618224509653,
+						23.813285604561
+					],
+					"properties": {
+						"landmarkid": "1000718057207",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵二水站分段點",
+						"landmarkad": "1000718",
+						"address": "彰化縣二水鄉光文路1號",
+						"tel": "04-8792027",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.500286822469,
+						25.0333657049765
+					],
+					"properties": {
+						"landmarkid": "6300007057353",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵萬華站分段點",
+						"landmarkad": "6300007",
+						"address": "臺北市萬華區富福里康定路382號",
+						"tel": "02-23020481",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.138115493277,
+						22.8619396145731
+					],
+					"properties": {
+						"landmarkid": "1001404057378",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵山里站分段點",
+						"landmarkad": "1001404",
+						"address": "臺東縣卑南鄉山里路108號",
+						"tel": "089-572370",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.827759922916,
+						24.6090584019992
+					],
+					"properties": {
+						"landmarkid": "1000203057387",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵蘇澳新站分段點",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮中山路二段238號",
+						"tel": "03-9961004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.85145111203,
+						24.5949557058456
+					],
+					"properties": {
+						"landmarkid": "1000203057388",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵蘇澳站分段點",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮蘇南里太平路1號",
+						"tel": "03-9962028",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.844529491047,
+						24.5684324133245
+					],
+					"properties": {
+						"landmarkid": "1000203057389",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵永樂站分段點",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮永樂里圳頭路60號",
+						"tel": "03-9961889",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.823045965443,
+						24.615704083884
+					],
+					"properties": {
+						"landmarkid": "1000203057390",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵新馬站分段點",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮中山路二段322號",
+						"tel": "03-9961004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.800874781772,
+						24.4631491193978
+					],
+					"properties": {
+						"landmarkid": "1000203057391",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南澳站分段點",
+						"landmarkad": "1000203",
+						"address": "宜蘭縣蘇澳鎮南強里大通路22號",
+						"tel": "03-9981971",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.514940996562,
+						22.5129544284675
+					],
+					"properties": {
+						"landmarkid": "1001318057398",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵崁頂站分段點",
+						"landmarkad": "1001318",
+						"address": "屏東縣屏東市崁頂鄉崁頂村中正路122號",
+						"tel": "08-7882739",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.572326582186,
+						22.3989497024094
+					],
+					"properties": {
+						"landmarkid": "1001316057402",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵東海站分段點",
+						"landmarkad": "1001316",
+						"address": "屏東縣枋寮鄉東海村西安路92號",
+						"tel": "08-8782041",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.595321752666,
+						22.3681592026684
+					],
+					"properties": {
+						"landmarkid": "1001316057403",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵枋寮站分段點",
+						"landmarkad": "1001316",
+						"address": "屏東縣枋寮鄉枋寮村儲運路18號",
+						"tel": "08-8782041",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.784888929994,
+						23.8263254567308
+					],
+					"properties": {
+						"landmarkid": "1000805057416",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵集集站(集集線)分段點",
+						"landmarkad": "1000805",
+						"address": "南投縣集集鎮民生路75號",
+						"tel": "049-2762546",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.750335714407,
+						23.8350668371427
+					],
+					"properties": {
+						"landmarkid": "1000805057417",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龍泉站(集集線)分段點",
+						"landmarkad": "1000805",
+						"address": "南投縣集集鎮隘寮村(無站房)",
+						"tel": "04-8792027",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.823824043277,
+						24.601026677011
+					],
+					"properties": {
+						"landmarkid": "1000506057423",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵豐富站(山)分段點",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮新港路116號",
+						"tel": "037-260031",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.787185269975,
+						24.6162908193756
+					],
+					"properties": {
+						"landmarkid": "1000506057424",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵後龍站(海)分段點",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮南龍里車站街127號",
+						"tel": "037-728616",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.758192169282,
+						24.6118894858716
+					],
+					"properties": {
+						"landmarkid": "1000506057425",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龍港站(海)分段點",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮龍京里7鄰公司寮85號",
+						"tel": "037-728616",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.803539099332,
+						24.6457559796876
+					],
+					"properties": {
+						"landmarkid": "1000506057426",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大山站(海)分段點",
+						"landmarkad": "1000506",
+						"address": "苗栗縣後龍鎮大山里明山路180號",
+						"tel": "037-728616",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.922764907487,
+						24.9665997764005
+					],
+					"properties": {
+						"landmarkid": "1000204057446",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大里站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮大里里濱海路六段326號",
+						"tel": "03-9781171",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.822408036208,
+						24.8590334036609
+					],
+					"properties": {
+						"landmarkid": "1000204057447",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵頭城站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮城北里纘祥路59號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.889772458499,
+						24.9384280382361
+					],
+					"properties": {
+						"landmarkid": "1000204057448",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵大溪站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮大溪里濱海路五段63號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.868748619479,
+						24.9050654942431
+					],
+					"properties": {
+						"landmarkid": "1000204057449",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵龜山站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮更新里濱海路三段261號",
+						"tel": "03-9770351",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.809151099397,
+						24.8440588462768
+					],
+					"properties": {
+						"landmarkid": "1000204057450",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵頂埔站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮下埔里下埔路4-8號",
+						"tel": "03-9886940",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.945254536627,
+						24.9782156286776
+					],
+					"properties": {
+						"landmarkid": "1000204057451",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵石城站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮石城里濱海路七段230號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.84558807396,
+						24.8838494625802
+					],
+					"properties": {
+						"landmarkid": "1000204057452",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵外澳站分段點",
+						"landmarkad": "1000204",
+						"address": "宜蘭縣頭城鎮外澳里濱海路二段217號",
+						"tel": "03-9771429",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.799901748673,
+						25.1374898050984
+					],
+					"properties": {
+						"landmarkid": "1001701057455",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵海科館站分段點",
+						"landmarkad": "1001701",
+						"address": "基隆市中正區長潭里",
+						"tel": "02-24972033",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.714317642965,
+						25.0932778555935
+					],
+					"properties": {
+						"landmarkid": "1001702057459",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵七堵站分段點",
+						"landmarkad": "1001702",
+						"address": "基隆市七堵區長興里東新街2號之1",
+						"tel": "02-24553426",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.693640481835,
+						25.0778809271685
+					],
+					"properties": {
+						"landmarkid": "1001702057460",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵百福站分段點",
+						"landmarkad": "1001702",
+						"address": "基隆市明德三路1-1號",
+						"tel": "02-24528372",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.582865728581,
+						23.9678979864655
+					],
+					"properties": {
+						"landmarkid": "1001505057487",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵吉安站分段點",
+						"landmarkad": "1001505",
+						"address": "花蓮縣吉安鄉南昌街200號",
+						"tel": "03-8539423",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.424530533833,
+						24.9914366766303
+					],
+					"properties": {
+						"landmarkid": "6500007057707",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵樹林站分段點",
+						"landmarkad": "6500007",
+						"address": "新北市樹林區樹北里鎮前街112號",
+						"tel": "02-26812052",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.40889443283,
+						24.9805402920818
+					],
+					"properties": {
+						"landmarkid": "6500007057708",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵南樹林站分段點",
+						"landmarkad": "6500007",
+						"address": "新北市樹林區中山路二段230號",
+						"tel": "02-26812052",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.392492831766,
+						24.9727184782736
+					],
+					"properties": {
+						"landmarkid": "6500007057709",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵山佳站分段點",
+						"landmarkad": "6500007",
+						"address": "新北市樹林區中山里中山路3段108號",
+						"tel": "02-26808874",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						121.355207625309,
+						24.9544943536054
+					],
+					"properties": {
+						"landmarkid": "6500008057710",
+						"landmarkco": 301,
+						"landmarkna": "臺鐵鶯歌站分段點",
+						"landmarkad": "6500008",
+						"address": "新北市鶯歌區東鶯里文化路68-1號",
+						"tel": "02-26792004",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.454605983322,
+						23.4877366962921
+					],
+					"properties": {
+						"landmarkid": "1002001057711",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路北門站分段點",
+						"landmarkad": "1002001",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.754387799121,
+						23.4927170765972
+					],
+					"properties": {
+						"landmarkid": "1001018057712",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路十字路站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.730919829494,
+						23.4980534054752
+					],
+					"properties": {
+						"landmarkid": "1001018057713",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路多林站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.659495035431,
+						23.5043797546031
+					],
+					"properties": {
+						"landmarkid": "1001014057714",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路水社寮站分段點",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.694901680207,
+						23.5053472427198
+					],
+					"properties": {
+						"landmarkid": "1001014057715",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路奮起湖站分段點",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.790075417934,
+						23.5089496649192
+					],
+					"properties": {
+						"landmarkid": "1001018057716",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路二萬坪站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.804461138738,
+						23.5099016323554
+					],
+					"properties": {
+						"landmarkid": "1001018057717",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路阿里山站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.822898332554,
+						23.5100241950204
+					],
+					"properties": {
+						"landmarkid": "1001018057718",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路祝山站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.780232145731,
+						23.5111064989392
+					],
+					"properties": {
+						"landmarkid": "1001018057719",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路屏遮那站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.813969051516,
+						23.5144474370527
+					],
+					"properties": {
+						"landmarkid": "1001018057720",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路沼平站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.808002197911,
+						23.5188791089953
+					],
+					"properties": {
+						"landmarkid": "1001018057721",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路神木站分段點",
+						"landmarkad": "1001018",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.552597412371,
+						23.5253643437711
+					],
+					"properties": {
+						"landmarkid": "1001014057722",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路竹崎站分段點",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.643776840711,
+						23.5316797255308
+					],
+					"properties": {
+						"landmarkid": "1001014057723",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路交力坪站分段點",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.602678019798,
+						23.5327788985211
+					],
+					"properties": {
+						"landmarkid": "1001014057724",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路樟腦寮站分段點",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.607409382375,
+						23.5385500497174
+					],
+					"properties": {
+						"landmarkid": "1001014057725",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路獨立山站分段點",
+						"landmarkad": "1001014",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				},
+				{
+					"type": "Point",
+					"coordinates": [
+						120.620007341542,
+						23.5423408297687
+					],
+					"properties": {
+						"landmarkid": "1001015057726",
+						"landmarkco": 301,
+						"landmarkna": "阿里山森林鐵路梨園寮站分段點",
+						"landmarkad": "1001015",
+						"address": "",
+						"tel": "",
+						"updatedate": "160727"
+					}
+				}
+			]
+		}
+	}
+}
