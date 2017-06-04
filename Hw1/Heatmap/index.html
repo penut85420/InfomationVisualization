@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+		<script type="text/javascript" src="d3/d3.js"></script>
+		<script type="text/javascript" src="d3/d3.csv.js"></script>
+		<script type="text/javascript" src="d3/d3.time.js"></script>
+		<style type="text/css">
+			body {
+				padding-top: 20px;
+				padding-left: 20px;
+			}
+
+			svg {
+				font-size: 10px;
+			}
+
+			.day {
+				fill: #fff;
+				stroke: #000;
+				stroke-opacity: .1;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>來台旅客人數成長率 1957~2015</h1>
+		<div id="body" style="width: 500px"></div>
+	</body>
+	<script>
+		var visitors;
+		var w = 50, h = 50;
+		var svg = d3.select("#body").selectAll(".year")
+				.data(d3.range(1957, 2015))
+			.enter().append("div")
+				.attr("class", "year")
+				.style("width", w + "px")
+				.style("height", h + "px")
+				.style("display", "inline-block")
+			.append("svg:svg")
+				.attr("width", w)
+				.attr("height", h)
+			.append("svg:g")
+				.attr("transform", "translate(12, 12)");
+
+		svg.append("svg:text")
+			.attr("transform", "translate(0, 0)rotate(0)")
+			.attr("text-anchor", "middle")
+			.text(String);
+		
+		var rect = svg.selectAll("rect.day")
+			.data(function(d) { return [d]; })
+		.enter().append("svg:rect")
+			.attr("class", "day")
+			.attr("width", w)
+			.attr("height", h)
+			.attr("x", 0)
+			.attr("y", 0);
+
+		rect.append("svg:title");
+
+		d3.csv("visitors.csv", function(csv) {
+			visitors = d3.nest()
+				.key(function(d) { return (d.Year.substring(3, 7)); })
+				.rollup(function(d) { return parseInt(d[0].GrowthRate); })
+				.map(csv);
+			display(visitors);
+		})
+
+		function display() {
+			svg.each(function(year) {
+				d3.select(this).selectAll("rect.day")
+						.style("fill", function(d) {
+							var c = visitors[year];
+							if (c > 0)
+								return "green";
+							else {
+								return "red";
+							}
+						})
+						.style("opacity", function(d) {
+							var c = visitors[year];
+							if (c > 0)
+								return c / 150 + 0.3;
+							else {
+								return -c / 25 + 0.3;
+							}
+						})
+					.select("title")
+						.text(function(d) { return visitors[d] + "%"; });
+			})
+		}
+	</script>
+</html>
