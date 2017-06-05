@@ -3,6 +3,7 @@ var dateObj = [];
 var stations;
 var svg;
 var color = d3.scale.linear().domain([0,10000]).range(["#090","#f00"]);
+var nowData;
 var path = function(d, r) {
 		return d3.geo.path().projection(
 			d3.geo.mercator().center([122,23.25]).scale(6000)
@@ -44,6 +45,8 @@ function update(value) {
 	document.getElementById("showDate").innerHTML = dateObj[value];
 	value = dateObj[value];
 	draw(value);
+	if (nowData != undefined)
+		displayInfo(nowData, value);
 }
 
 function getValue(d, value) {
@@ -68,11 +71,9 @@ function draw(value) {
 			return path(d, 2);
 		})
 		.on("mouseover", function(d) {
-			if (d.date != undefined) {
-				$("#name").text(d.properties.landmarkna);
-				$("#in").text(d.date[value].in);
-				$("#out").text(d.date[value].out);
-			}
+			nowData = d;
+			console.log(nowData);
+			displayInfo(d, value);
 			d3.select(this).attr("fill", (d) => { 
 				if (d.properties.C_Name != undefined) return "AntiqueWhite ";
 				return "blue";
@@ -87,6 +88,14 @@ function draw(value) {
 				return color(10);
 			}).attr("opacity", (d) => {return d.properties.C_Name == undefined? 0.1: 1})
 		});
+}
+
+function displayInfo(d, value) {
+	if (d.date != undefined) {
+		$("#name").text(d.properties.landmarkna);
+		$("#in").text(d.date[value].in);
+		$("#out").text(d.date[value].out);
+	}
 }
 
 function drawTw() {
