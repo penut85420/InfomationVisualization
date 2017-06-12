@@ -31,6 +31,10 @@ public class Library {
 		System.out.println(obj.toString());
 	}
 	
+	public static void writeFile(String file, String content) {
+		writeFile(new File(file), content);
+	}
+	
 	public static void writeFile(File file, String content) {
 		try {
 			FileOutputStream fout = new FileOutputStream(file);
