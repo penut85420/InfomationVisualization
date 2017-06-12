@@ -1,0 +1,556 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中華職棒大聯盟全球資訊網 The Official Site of CPBL</title>
+<!-- header -->
+<link href="http://cpbl-elta.cdn.hinet.net/web/css/style.css?v=20161021" rel="stylesheet" type="text/css" /><!--CSS-->
+<link rel="shortcut icon" href="http://cpbl-elta.cdn.hinet.net/web/images/logo.ico">
+<link rel="stylesheet" type="text/css" href="http://cpbl-elta.cdn.hinet.net/lib/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cpbl-elta.cdn.hinet.net/lib/fancybox/jquery.fancybox.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://cpbl-elta.cdn.hinet.net/lib/sticky/jquery.sticky.js"></script> <!--20150918-->
+
+
+<!--此為DFP載入廣告程式碼-->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+	googletag.cmd.push(function () {
+		//googletag.defineSlot('/71024502/cpbl_index_300120_1', [300, 120], 'div-gpt-ad-1410928154883-0').addService(googletag.pubads());
+		//googletag.defineSlot('/71024502/cpbl_index_300120_2', [300, 120], 'div-gpt-ad-1410928154883-1').addService(googletag.pubads());
+		//googletag.defineSlot('/71024502/cpbl_index_300120_3', [300, 120], 'div-gpt-ad-1410928154883-2').addService(googletag.pubads());
+		//googletag.defineSlot('/71024502/cpbl_index_300250_1', [300, 250], 'div-gpt-ad-1410928154883-3').addService(googletag.pubads());
+		//googletag.defineSlot('/71024502/cpbl_index_300600_1', [300, 600], 'div-gpt-ad-1410928154883-4').addService(googletag.pubads());
+		//googletag.defineSlot('/71024502/cpbl_index_600100_1', [600, 100], 'div-gpt-ad-1410928154883-5').addService(googletag.pubads());
+		
+		googletag.defineSlot('/71024502/cpbl_index_600100_1', [600, 100], 'div-gpt-ad-1411007483897-0').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_game_box_72890_1', [728, 90], 'div-gpt-ad-1410934631955-0').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_index_72890_1', [728, 90], 'div-gpt-ad-1410928154883-6').addService(googletag.pubads());
+
+		//r1 r2 l
+		googletag.defineSlot('/71024502/cpbl_index_300250_1', [300, 250], 'div-gpt-ad-1447212876523-0').addService(googletag.pubads());
+    	googletag.defineSlot('/71024502/cpbl_index_300250_2', [300, 250], 'div-gpt-ad-1447212876523-1').addService(googletag.pubads());
+   		googletag.defineSlot('/71024502/cpbl_index_160600_1', [160, 600], 'div-gpt-ad-1447212876523-2').addService(googletag.pubads());
+		//m1 m2
+		googletag.defineSlot('/71024502/cpbl_index_190200_1', [190, 200], 'div-gpt-ad-1447399700307-0').addService(googletag.pubads());
+   		googletag.defineSlot('/71024502/cpbl_index_190200_2', [190, 200], 'div-gpt-ad-1447399700307-1').addService(googletag.pubads());
+		
+		googletag.defineSlot('/71024502/cpbl_index_97090_1', [[728, 90], [970, 90]], 'div-gpt-ad-1459139503845-0').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_index_610100_1', [610, 100], 'div-gpt-ad-1459139503845-1').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_allsite_160600_1', [[160, 600], [120, 600]], 'div-gpt-ad-1459139503845-2').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_allsite_160600_2', [[160, 600], [120, 600]], 'div-gpt-ad-1459139503845-3').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_news_content_336280_1', [[300, 250], [336, 280]], 'div-gpt-ad-1459139503845-4').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_news_content_336280_2', [[300, 250], [336, 280]], 'div-gpt-ad-1459139503845-5').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_schedule_97090_1', [[728, 90], [970, 90]], 'div-gpt-ad-1459139503845-6').addService(googletag.pubads());
+		googletag.defineSlot('/71024502/cpbl_schedule_970250_1', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1459139503845-7').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+
+
+		
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+
+
+
+
+
+
+<script src="http://cpbl-elta.cdn.hinet.net/web/js/tab.js"></script>
+<script src="http://cpbl-elta.cdn.hinet.net/lib/Chartjs/Chart.js"></script>
+</head>
+
+<body>
+
+<!-- 置頂 start-->
+<!-- 主選單 start -->
+<!-- 主選單 start -->
+<div class="header" id="sticker">
+	<div class="w_main">
+		<!-- logo -->
+		<div class="left logo_header"><a href="/cpbl.html"><img src="http://cpbl-elta.cdn.hinet.net/web/images/logo.png" width="74" height="34" align="absmiddle" /></a></div>
+		<!-- 主選單 start -->
+		<div class="left">
+			<ul class="menu" id="menu">
+				<li id = 'menu-newes'><a href="/news/lists.html">新聞</a></li>
+				<li id = 'menu-schedule'><a href="/schedule/index.html">賽程</a></li>
+				<li id = 'menu-boxs'><a href="/games/index.html">成績看板</a></li>
+				<li id = 'menu-stadning'><a href="/standing/season.html">球隊戰績</a></li>
+				<li id = 'menu-data'><a href="#">數據統計</a>
+				<li id = 'menu-team'><a href="#">球隊</a></li>
+				<li id = 'menu-player'><a href="#">球員</a></li>
+				<li id = 'menu-tickets'><a href="/ticket/">票務</a></li>
+				<!-- <li id = 'menu-tickets'><a href="javascript:void(0)" style="cursor:text;">票務</a></li> -->
+				<li id = 'menu-shopping'><a href="http://www.pcstore.com.tw/shopping_cpbl/" target="_blank">商城</a></li>
+				<li id = 'menu-cpbltv'><a href="http://www.cpbltv.com/" target="_blank">CPBLTV</a></li>
+                <li id = 'menu-museum'><a href="http://museum.cpbl.com.tw/" target="_blank">線上文物館</a><!--<span>Beta</span>--></li>
+
+			</ul>
+		</div>
+		<!-- 主選單 end -->
+		<!-- 右選項 -->
+		<div class="right">
+			
+			<div class="top_link_line"></div>
+   			<a id = 'menu-app' href="#" class="top_link">APP</a>
+			<div class="top_link_line"></div>
+			<a target="_blank" href="https://www.facebook.com/heartbaseball?fref=ts" class="top_link"><img id="btn_shaer_facebook" src="http://cpbl-elta.cdn.hinet.net/web/images/icon_fb.png" width="9" height="60" align="absmiddle" /></a>
+			<div class="top_link_line"></div>
+			<a target="_blank" href="https://plus.google.com/+CPBL/posts" class="top_link"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_g+.png" width="22" height="60" align="absmiddle" /></a>
+			<div class="top_link_line"></div>
+		</div>
+		<div class="clean"></div>
+	</div>
+	<!-- w_main -->
+</div>
+<!-- header -->
+<!-- 次選單 start -->
+<!-- 數據統計↓ -->
+<ul class="submenu" id="menu-submenu">
+	<li><a href="/stats/special.html">記錄特別報導</a></li>
+	<li><a href="/stats/toplist.html">各項排行成績</a></li>
+</ul>
+<!-- 球隊↓ -->
+<ul class="submenu2" id="menu-submenu2" style = "z-index:100;" >
+	<li><a href="/web/team_history.php"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_cpbl_sub.png" width="103" height="64" /><br />沿革</a></li>
+	<li><a href="/web/team_brief.php?&team=E02"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_brothers_sub.png" width="103" height="64" /><br />中信兄弟</a></li>
+	<li><a href="/web/team_brief.php?&team=L01"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_lion_sub.png" width="103" height="64" /><br />統一7-ELEVEn獅</a></li>
+	<li><a href="/web/team_brief.php?&team=A02"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_lamigo_sub.png" width="103" height="64" /><br />LAMIGO桃猿</a></li>
+	<li><a href="/web/team_brief.php?&team=B04"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_Guardians_sub.png" width="103" height="64" /><br />富邦悍將</a></li>
+</ul>
+<!-- 球員↓ -->
+<ul class="submenu3" id="menu-submenu3">
+	<li><a href="/players.html">球員點將錄</a></li>
+	<li><a href="/players/change.html">球員異動</a></li>
+</ul>
+
+<!-- APP↓ -->
+<ul class="submenu4" id="menu-submenu4" style="z-index:2;">
+  <li><a href="#"><img src="http://cpbl-elta.cdn.hinet.net/web/images/cpbl_app_ios.png" width="117" /><br />iOS</a></li>
+  <li><a href="#"><img src="http://cpbl-elta.cdn.hinet.net/web/images/cpbl_app_android.png" width="117" /><br />Andorid</a></li>
+</ul>
+
+
+<!-- 次選單 end -->
+
+
+<script type="text/javascript">
+
+	var msubmenu = msubmenu2 = msubmenu3 = false ;
+	var menu_opened = false;
+	var menus = ['#menu-newes', '#menu-schedule', '#menu-boxs', '#menu-stadning',  '#menu-tickets', '#menu-shopping', '#menu-cpbltv'];
+	
+	
+	
+	$.each(menus, function(key, data){
+		
+		$(data).hover(function(){
+			$("#menu-submenu").css('display', 'none');
+			$("#menu-submenu2").css('display', 'none');
+			$("#menu-submenu3").css('display', 'none');
+			$("#menu-submenu4").css('display', 'none');
+		});
+	});
+
+
+	$('#menu-data').hover(function(){		
+		$("#menu-submenu").css('display', 'block');
+		$("#menu-submenu2").css('display', 'none');
+		$("#menu-submenu3").css('display', 'none');
+		$("#menu-submenu4").css('display', 'none');
+		},
+		 function(){
+			 $('#menu-submenu').hover(function(){
+				 $("#menu-submenu").css('display', 'block'); 
+			 }, function(){
+				 $("#menu-submenu").css('display', 'none');			 
+			 });
+		}
+	);
+	
+	$('#menu-team').hover(function(){		
+		$("#menu-submenu2").css('display', 'block');
+		$("#menu-submenu").css('display', 'none');
+		$("#menu-submenu3").css('display', 'none');
+		$("#menu-submenu4").css('display', 'none');
+		},
+		 function(){
+			 $('#menu-submenu2').hover(function(){
+				 $("#menu-submenu2").css('display', 'block'); 
+			 }, function(){
+				 $("#menu-submenu2").css('display', 'none');			 
+			 });
+		}
+	);
+	
+	
+	$('#menu-player').hover(function(){		
+		$("#menu-submenu3").css('display', 'block');
+		$("#menu-submenu").css('display', 'none');
+		$("#menu-submenu2").css('display', 'none');
+		$("#menu-submenu4").css('display', 'none');
+		},
+		 function(){
+			 $('#menu-submenu3').hover(function(){
+				 $("#menu-submenu3").css('display', 'block'); 
+			 }, function(){
+				 $("#menu-submenu3").css('display', 'none');			 
+			 });
+		}
+	);
+	
+	$('#menu-app').hover(function(){		
+		$("#menu-submenu4").css('display', 'block');
+		$("#menu-submenu").css('display', 'none');
+		$("#menu-submenu2").css('display', 'none');
+		$("#menu-submenu3").css('display', 'none');
+		},
+		 function(){
+			 $('#menu-submenu4').hover(function(){
+				 $("#menu-submenu4").css('display', 'block'); 
+			 }, function(){
+				 $("#menu-submenu4").css('display', 'none');			 
+			 });
+		}
+	);
+	
+	
+	$("#sticker").sticky({ topSpacing: 0, center:true, className:"hey" });
+	
+	$(document).ready(function(){
+		//$('#menu-tickets a').removeAttr('href');
+	});
+</script>
+<!-- google 春聯AD start -->
+<div class="gg_ad_l"><!--600x100-->
+<!---->
+<!-- <a href="http://www.cpblallstar.com/" target="_blank"><img src="http://cpbl-elta.cdn.hinet.net/web/images/cpbl_banner_20170426.jpg" /></a> -->
+
+<!--728x90-->
+<!---->
+<!--r1-->
+<div align="center" style="margin: 0 auto;">
+
+<!--首頁中間-->  
+ 
+
+	<!-- /71024502/cpbl_allsite_160600_1 -->
+    <div id='div-gpt-ad-1459139503845-2'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459139503845-2'); });
+    </script>
+    </div>
+
+
+    
+
+</div></div>
+<div class="gg_ad_r"><!--600x100-->
+<!---->
+<!-- <a href="http://www.cpblallstar.com/" target="_blank"><img src="http://cpbl-elta.cdn.hinet.net/web/images/cpbl_banner_20170426.jpg" /></a> -->
+
+<!--728x90-->
+<!---->
+<!--r2-->
+<div align="center" style="margin: 0 auto;">
+
+<!--首頁中間-->  
+ 
+
+	<!-- /71024502/cpbl_allsite_160600_2 -->
+    <div id='div-gpt-ad-1459139503845-3'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459139503845-3'); });
+    </script>
+    </div>
+
+
+    
+<!--數據統計上方 || 成績看板上方 || 球員異動上方-->
+
+</div></div>
+<!-- google 春聯AD end -->
+
+
+<!-- 置頂 end-->
+
+<div class="cont_bk">
+	<!-- 整頁底圖在此元素內 -->
+	<div class="cont">
+		<div class="cont_single">
+        <!-- AD 728x90 -->
+        <div class="gap_b20 align_c"><!--600x100-->
+<!---->
+<!-- <a href="http://www.cpblallstar.com/" target="_blank"><img src="http://cpbl-elta.cdn.hinet.net/web/images/cpbl_banner_20170426.jpg" /></a> -->
+
+<!--728x90-->
+<!---->
+<!--all-->
+<div align="center" style="margin: 0 auto;">
+
+<!--首頁中間-->  
+ 
+
+    
+	<div id="cpbl_3364_11978_12644_1_script" ></div>
+	<script>(function(i){
+    (window.scupioexpandable = window.scupioexpandable || []).push({
+    id:i,callback: function () {
+    var ins = document.createElement('ins');
+    ins.id = 'cpbl_3364_13433_6810';
+    ins.className = 'scupioadslot';
+    ins.style.display = 'none';
+    ins.style.margin = 'auto';
+    ins.style.width = '970px';
+    ins.style.height = '250px';
+    ins.setAttribute('data-sca-pub','lQgcFA8=');
+    ins.setAttribute('data-sca-web','3364');
+    ins.setAttribute('data-sca-category','12');
+    ins.setAttribute('data-sca-cid','13433');
+    ins.setAttribute('data-sca-type','image,image-text');
+    ins.setAttribute('data-sca-width','970px');
+    ins.setAttribute('data-sca-height','250px');
+    ins.setAttribute('data-sca-atf','1');
+    document.getElementById('cpbl_3364_11978_12644_1_script').appendChild(ins);
+    (function(s,c,u,p,i,o,a,d){(d=s.scupioads=s.scupioads||[]).push({
+    id:p,callback:function(){
+    document.getElementById('cpbl_3364_13433_6810').style.display = 'none'; 
+    }});
+    i=c.createElement(u),o=c.getElementsByTagName(u)[0];setTimeout(function(){
+    for(a=0;!s.scupiosdk&&a<d.length;a++)if(d[a].id===p)d[a].callback(),d[a]=0;
+    },1e3);if(s.scupiosdk)return;i.src='//img.scupio.com/js/ad.js';
+    o.parentNode.insertBefore(i,o);})(window,document,'script','cpbl_3364_13433_6810')
+    }});}("cpbl_3364_11978_12644_1_script"));</script>
+    <script async type="text/javascript" src="//bw.scupio.com/adpinline/ADmediaJS/cpbl_3364_11978_12644_1.js"></script>
+        
+   
+
+</div></div>
+
+			<!-- 大標 start-->
+			<h1>
+				PLAYER <span>球員個人紀錄</span>
+				<div class="h1_side">
+					<a href="/web/team_brief.php?&team=A02" class="btn_gray">Lamigo</a>
+					<a href="/web/team_player.php?&team=A02" class="btn_gray">球員列表</a>
+				</div>
+				<!-- h1_side -->
+			</h1>
+			<!-- 大標 end-->
+			<!-- 球員資料 start-->
+			
+
+<!--
+0<br />
+0<br />
+-->
+
+
+
+<div class="player_info">
+	<div class="player_info_pic"><img src="http://cpbl-elta.cdn.hinet.net/upload/head/k442.jpg"    onerror="this.src='http://cpbl-elta.cdn.hinet.net/phone/images/playerhead.png'" /></div>
+	<div class="player_info_row1">
+		<img src="http://cpbl-elta.cdn.hinet.net/web/images/all_team/A02.png" height="90" align="left" />
+		<div class="player_info_name">楊 岱 均 25<br /><span>球隊:Lamigo</span></div>
+	</div>
+	<!-- player_info_row1 -->
+	<div>
+		<table width="740" border="0" cellspacing="0" cellpadding="0" class="player_info_other">
+			<tr>
+				<td width="25%">位置:一壘手</td>
+				<td width="25%">投打:右投右打</td>
+				<td width="25%">身高:173(CM)</td>
+				<td width="25%">體重:96(KG)</td>
+			</tr>
+			<tr>
+				<td>生日:1993/09/19</td>
+				<td>初出場:2016/07/14</td>
+				<td>學歷:國立體大</td>
+				<td>原名:</td>
+			</tr>
+		</table>
+	</div>
+	<div class="clean"></div>
+</div>
+
+
+
+
+
+
+			
+			<!-- player_info -->
+			<!-- 球員資料 end-->
+			<!-- 頁籤 start -->
+						<div class="blue_tab_bar">
+				<a href="/players/person.html?player_id=k442&teamno=" class="player_blue_tab_focus ">個人成績表</a>
+				
+								<a href="/players/hr.html?player_id=k442&teamno=" class="player_blue_tab ">全壘打明細</a>
+								<a href="/players/apart.html?player_id=k442&teamno=" class="player_blue_tab ">分項成績</a>
+				<a href="/players/follow.html?player_id=k442&teamno=" class="player_blue_tab ">逐場成績表</a>
+
+				<div class="clean"></div>
+			</div>
+			<!-- blue_tab_bar -->
+			<!-- 頁籤 end -->
+			<!-- 內容 start -->
+			<div class="gap_b20">
+			
+				<!-- 打擊 & 投手 start -->
+				                					<!--	打擊	-->
+									<!-- 打擊 start -->
+				<!-- 資料欄位切換按鈕↓ -->
+				<h3 class="td_switch">
+					打擊成績
+					<div class="h3_side">
+						<!--
+						<a href="#"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_left_w.png" width="22" height="22" align="absmiddle" /></a>
+						<a href="#"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_right.png" width="22" height="22" align="absmiddle" /></a>
+						-->
+						
+						<a id="data_left_a" href="javascript:void(0)" onclick="display_left_a(2,1)" ><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_left_w.png" width="22" height="22" align="absmiddle" /></a>
+						<a id="data_right_a"  href="javascript:void(0)"  onclick="display_right_a(2,1)" ><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_right.png" width="22" height="22" align="absmiddle" /></a>						
+						
+					</div>
+				</h3>
+				<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x">
+					
+					<tr>
+						<th width="100" align="center">YEAR</th>
+						<th width="100" align="center">TEAM</th>
+						
+						<th title="出賽數"	class="display_a1" align="center" style="display:table-cell;"><a href="#">G</a></th>
+						<th title="打席"	class="display_a1" align="center" style="display:table-cell;"><a href="#">PA</a></th>
+						<th title="打數"	class="display_a1" align="center" style="display:table-cell;"><a href="#">AB</a></th>
+						<th title="打點"	class="display_a1" align="center" style="display:table-cell;"><a href="#">RBI</a></th>
+						<th title="得分"	class="display_a1" align="center" style="display:table-cell;"><a href="#">R</a></th>
+						<th title="安打"	class="display_a1" align="center" style="display:table-cell;"><a href="#">H</a></th>						
+						<th title="一壘安打"	class="display_a1" align="center" style="display:table-cell;"><a href="#">1B</a></th>
+						<th title="二壘安打"	class="display_a1" align="center" style="display:table-cell;"><a href="#">2B</a></th>
+						<th title="三壘安打"	class="display_a1" align="center" style="display:table-cell;"><a href="#">3B</a></th>
+						<th title="全壘打"	class="display_a1" align="center" style="display:table-cell;"><a href="#">HR</a></th>						
+						<th title="壘打數"	class="display_a1" align="center" style="display:table-cell;"><a href="#">TB</a></th>
+						<th title="被三振"	class="display_a1" align="center" style="display:table-cell;"><a href="#">SO</a></th>						
+						<th title="盜壘"	class="display_a1" align="center" style="display:table-cell;"><a href="#">SB</a></th>
+						<th title="上壘率=(安打+四死球)/(打數+四死球+犧牲飛球)"	class="display_a1" align="center" style="display:table-cell;"><a href="#">OBP</a></th>
+						<th title="長打數=壘打數/打數"	class="display_a1" align="center" style="display:table-cell;"><a href="#">SLG</a></th>
+						<th title="打擊率=安打/打數"	class="display_a1" align="center" style="display:table-cell;"><a href="#">AVG</a></th>
+						
+						<th title="雙殺打"	class="display_a2" align="center" style="display:none;"><a href="#">GIDP</a></th>
+						<th title="犧牲短打"	class="display_a2" align="center" style="display:none;"><a href="#">SAC</a></th>
+						<th title="犧牲飛球"	class="display_a2" align="center" style="display:none;"><a href="#">SF</a></th>
+						<th title="四壞球"	class="display_a2" align="center" style="display:none;"><a href="#">BB</a></th>
+						<th title="故意四壞"	class="display_a2" align="center" style="display:none;"><a href="#">IBB</a></th>
+						<th title="死球"	class="display_a2" align="center" style="display:none;"><a href="#">HBP</a></th>
+						<th title="盜壘刺"	class="display_a2" align="center" style="display:none;"><a href="#">CS</a></th>
+						<th title="滾地出局"	class="display_a2" align="center" style="display:none;"><a href="#">GO</a></th>
+						<th title="高飛出局"	class="display_a2" align="center" style="display:none;"><a href="#">AO</a></th>
+						<th title="滾飛出局比"	class="display_a2" align="center" style="display:none;"><a href="#">G/F</a></th>
+						<th title="盜壘率=盜壘/(盜壘+盜壘刺)"	class="display_a2" align="center" style="display:none;"><a href="#">SB%</a></th>
+						<th title="攻擊指數=(壘打數+盜壘+四死球)/(打數-安打+盜壘刺+雙殺打)"	class="display_a2" align="center" style="display:none;"><a href="#">TA</a></th>
+						<th title="銀棒指數=打擊率*1000+全壘打*20+打點*5+壘打數"	class="display_a2" align="center" style="display:none;"><a href="#">SSA</a></th>
+						
+					</tr>
+                    					                    															                    										<!--	tpl版型	-->
+					<tr>
+						<td align="center">2016</td>
+						<td align="center">Lamigo</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">12</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">36</td>
+						
+						<td align="center" style="display:table-cell;"	class="display_a1">35</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">4</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">3</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">9</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">7</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">2</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+
+						<td align="center" style="display:table-cell;"	class="display_a1">11</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">4</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.278</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.314</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.257</td>
+						
+						
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">1</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">9</td>
+						<td align="center" style="display:none;"	class="display_a2">13</td>
+						<td align="center" style="display:none;"	class="display_a2">0.692</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">0.00</td>
+						<td align="center" style="display:none;"	class="display_a2">0.462</td>
+						<td align="center" style="display:none;"	class="display_a2">288.14</td>
+						
+					</tr>
+															                    										<!--	tpl版型	-->
+					<tr>
+						<td align="center">2017</td>
+						<td align="center">Lamigo</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">22</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">40</td>
+						
+						<td align="center" style="display:table-cell;"	class="display_a1">36</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">7</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">3</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">12</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">10</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">2</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+
+						<td align="center" style="display:table-cell;"	class="display_a1">14</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">5</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.400</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.389</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.333</td>
+						
+						
+						<td align="center" style="display:none;"	class="display_a2">3</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">3</td>
+						<td align="center" style="display:none;"	class="display_a2">1</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">10</td>
+						<td align="center" style="display:none;"	class="display_a2">9</td>
+						<td align="center" style="display:none;"	class="display_a2">1.111</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">0.00</td>
+						<td align="center" style="display:none;"	class="display_a2">0.667</td>
+						<td align="center" style="display:none;"	class="display_a2">382.33</td>
+						
+					</tr>
+																				                    					<!--	tpl版型	-->
+					<tr>
+						<td align="center">TOTAL</td>
+						<td align="center">-</td>
