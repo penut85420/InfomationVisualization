@@ -2,7 +2,12 @@ var parseTime = d3.timeParse("%m/%d");
 
 var svg, margin, width, height, g, x, y, line;
 
+var TeamBrother = "E02", 
+	TeamLamigo = "A02",
+	TeamFubon = "B04",
+	TeamLion = "L01";
 
+var TeamID = {brother: "E02", lamigo: "A02", fubon: "B04", lion: "L01"};
 
 function change(value) {
 	svg.selectAll("#C").remove();
@@ -49,6 +54,36 @@ function change(value) {
 	});
 }
 
+function changeTeam(team) {
+	d3.tsv("data/PlayerHitter" + TeamID[team] + "ID.txt", (d)=>{
+		var mem = document.getElementById("member");
+		var name = [],
+			ele = {},
+			id = {};
+		
+		for (var i in d) {
+			var option = document.createElement("option");
+			if (d[i].ID != undefined) {
+				option.value = d[i].ID;
+				option.text = d[i].NAME;
+				ele[d[i].NAME] = option;
+				name.push(d[i].NAME);
+				id[d[i].NAME] = d[i].ID;
+			}
+		}
+		
+		name.sort();
+		
+		for (var i in mem)
+			mem.remove(i);
+
+		for (var i in name)
+			mem.add(ele[name[i]]);
+
+		change(id[name[0]]);
+	});
+}
+
 $(document).ready(function() {
 	svg = d3.select("svg"),
 	margin = {top: 20, right: 20, bottom: 30, left: 50},
@@ -61,19 +96,6 @@ $(document).ready(function() {
 	line = d3.line()
 		.x(function(d) { return x(d.date); })
 		.y(function(d) { return y(d.close); });
-
-	d3.tsv("data/PlayerHitterID.tsv", (d)=>{
-		var mem = document.getElementById("member");
-		for (var i in d) {
-			
-			var option = document.createElement("option");
-			option.value = d[i].ID;
-			option.text = d[i].NAME;
-			mem.add(option);
-		}
-		change(d[0].ID);
-	});
-
-	// change(document.getElementById("member").value);
+	changeTeam(document.getElementById("team").value);
 });
 

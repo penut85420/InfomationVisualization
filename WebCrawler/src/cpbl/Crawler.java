@@ -15,8 +15,8 @@ public class Crawler {
 	final static String TeamLion = "L01";
 	final static String[] AllTeam = {TeamBrother, TeamLamigo, TeamFubon, TeamLion};
 	
-	final static String TypeFollow = "follow";
-	final static String TypePerson = "person";
+	final static String TypeFollow = "Follow";
+	final static String TypePerson = "Person";
 	
 	public static void main(String[] args) throws Exception {
  		unitTest();
@@ -24,18 +24,23 @@ public class Crawler {
 	}
 	
 	private static void unitTest() {
-		ArrayList<String> playerBrother = getAvaliablePlayer(TeamBrother);
+		for (String teamID: AllTeam)
+			getTeam(teamID);
+	}
+	
+	private static void getTeam(String teamID) {
+		ArrayList<String> teamData = getAvaliablePlayer(teamID);
 		String pitcher = "ID\tNAME\r\n";
 		String hitter = "ID\tNAME\r\n";
-		for (String id: playerBrother) {
+		for (String id: teamData) {
 			Player p = new Player(id, getData(TypePerson, id), getData(TypeFollow, id));
 			String t = String.format("%s\t%s\r\n", id, p.getPlayerName());
 			if (p.getPlayerType().equals("Pitch"))
 				pitcher += t;
 			else hitter += t;
 		}
-		Library.writeFile("data\\PlayerPitcherID.txt", pitcher);
-		Library.writeFile("data\\PlayerHitterID.txt", hitter);
+		Library.writeFile("data\\PlayerPitcher" + teamID + "ID.txt", pitcher);
+		Library.writeFile("data\\PlayerHitter" + teamID + "ID.txt", hitter);
 	}
 	
 	private static void log(Object obj) {
