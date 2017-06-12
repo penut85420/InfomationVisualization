@@ -302,45 +302,19 @@
 
 <!--728x90-->
 <!---->
-<!--all-->
+<!--top_all-->
 <div align="center" style="margin: 0 auto;">
 
 <!--首頁中間-->  
  
 
+	<!-- /71024502/cpbl_schedule_97090_1 -->
+    <div id='div-gpt-ad-1459139503845-6'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1459139503845-6'); });
+    </script>
+    </div>
     
-	<div id="cpbl_3364_11978_12644_1_script" ></div>
-	<script>(function(i){
-    (window.scupioexpandable = window.scupioexpandable || []).push({
-    id:i,callback: function () {
-    var ins = document.createElement('ins');
-    ins.id = 'cpbl_3364_13433_6810';
-    ins.className = 'scupioadslot';
-    ins.style.display = 'none';
-    ins.style.margin = 'auto';
-    ins.style.width = '970px';
-    ins.style.height = '250px';
-    ins.setAttribute('data-sca-pub','lQgcFA8=');
-    ins.setAttribute('data-sca-web','3364');
-    ins.setAttribute('data-sca-category','12');
-    ins.setAttribute('data-sca-cid','13433');
-    ins.setAttribute('data-sca-type','image,image-text');
-    ins.setAttribute('data-sca-width','970px');
-    ins.setAttribute('data-sca-height','250px');
-    ins.setAttribute('data-sca-atf','1');
-    document.getElementById('cpbl_3364_11978_12644_1_script').appendChild(ins);
-    (function(s,c,u,p,i,o,a,d){(d=s.scupioads=s.scupioads||[]).push({
-    id:p,callback:function(){
-    document.getElementById('cpbl_3364_13433_6810').style.display = 'none'; 
-    }});
-    i=c.createElement(u),o=c.getElementsByTagName(u)[0];setTimeout(function(){
-    for(a=0;!s.scupiosdk&&a<d.length;a++)if(d[a].id===p)d[a].callback(),d[a]=0;
-    },1e3);if(s.scupiosdk)return;i.src='//img.scupio.com/js/ad.js';
-    o.parentNode.insertBefore(i,o);})(window,document,'script','cpbl_3364_13433_6810')
-    }});}("cpbl_3364_11978_12644_1_script"));</script>
-    <script async type="text/javascript" src="//bw.scupio.com/adpinline/ADmediaJS/cpbl_3364_11978_12644_1.js"></script>
-        
-   
 
 </div></div>
 

@@ -554,3 +554,727 @@
 					<tr>
 						<td align="center">TOTAL</td>
 						<td align="center">-</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">34</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">76</td>
+						
+						<td align="center" style="display:table-cell;"	class="display_a1">71</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">11</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">6</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">21</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">17</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">4</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+
+						<td align="center" style="display:table-cell;"	class="display_a1">25</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">9</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.342</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.352</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.296</td>
+						
+						
+						<td align="center" style="display:none;"	class="display_a2">3</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">3</td>
+						<td align="center" style="display:none;"	class="display_a2">1</td>
+						<td align="center" style="display:none;"	class="display_a2">1</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">19</td>
+						<td align="center" style="display:none;"	class="display_a2">22</td>
+						<td align="center" style="display:none;"	class="display_a2">0.864</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">0.00</td>
+						<td align="center" style="display:none;"	class="display_a2">0.566</td>
+						<td align="center" style="display:none;"	class="display_a2">375.77</td>
+						
+					</tr>
+					                    										
+										<tr>
+						<td align="center">二軍成績</td>
+						<td align="center" colspan="17"></td>
+					</tr>
+					                    															                    										<!--	tpl版型	-->
+					<tr>
+						<td align="center">2016</td>
+						<td align="center">Lamigo二軍</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">16</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">65</td>
+						
+						<td align="center" style="display:table-cell;"	class="display_a1">57</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">15</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">12</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">19</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">8</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">8</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">3</td>
+
+						<td align="center" style="display:table-cell;"	class="display_a1">36</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">7</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.415</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.632</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.333</td>
+						
+						
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">5</td>
+						<td align="center" style="display:none;"	class="display_a2">2</td>
+						<td align="center" style="display:none;"	class="display_a2">1</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">10</td>
+						<td align="center" style="display:none;"	class="display_a2">21</td>
+						<td align="center" style="display:none;"	class="display_a2">0.476</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">0.00</td>
+						<td align="center" style="display:none;"	class="display_a2">1.158</td>
+						<td align="center" style="display:none;"	class="display_a2">504.33</td>
+						
+					</tr>
+															                     
+					                                        
+					<!--	tpl版型	-->
+					<tr>
+						<td align="center">TOTAL</td>
+						<td align="center">-</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">16</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">65</td>
+						
+						<td align="center" style="display:table-cell;"	class="display_a1">57</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">15</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">12</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">19</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">8</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">8</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">3</td>
+
+						<td align="center" style="display:table-cell;"	class="display_a1">36</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">7</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.415</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.632</td>
+						<td align="center" style="display:table-cell;"	class="display_a1">0.333</td>
+						
+						
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">5</td>
+						<td align="center" style="display:none;"	class="display_a2">2</td>
+						<td align="center" style="display:none;"	class="display_a2">1</td>
+						<td align="center" style="display:none;"	class="display_a2">0</td>
+						<td align="center" style="display:none;"	class="display_a2">10</td>
+						<td align="center" style="display:none;"	class="display_a2">21</td>
+						<td align="center" style="display:none;"	class="display_a2">0.476</td>
+						
+						<td align="center" style="display:none;"	class="display_a2">0.00</td>
+						<td align="center" style="display:none;"	class="display_a2">1.158</td>
+						<td align="center" style="display:none;"	class="display_a2">504.33</td>
+						
+					</tr>
+					
+                                        										
+					
+					
+				</table>
+				<!-- 打擊 end -->
+
+				
+				<!-- 守備 start -->
+				<h3 class="gap_t20">守備成績</h3>
+				<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x">
+					<tr>
+						<th >YEAR</th>
+						<th ><a title="球隊">TEAM</a></th>
+						<th ><a href="#" rel="g" title="出賽數">G</a></th>
+						<th ><a href="#" rel="tc" title="守備機會">TC</a></th>
+						<th ><a href="#" rel="po" title="刺殺">PO</a></th>
+						<th ><a href="#" rel="asi" title="助殺">A</a></th>
+						<th ><a href="#" rel="er" title="失誤">E</a></th>
+						<th ><a href="#" rel="dp" title="雙殺">DP</a></th>
+						<th ><a href="#" rel="tp" title="三殺">TP</a></th>
+                        						<th ><a href="#" rel="fpct" title="守備率=(刺殺+助殺)/(刺殺+助殺+失誤)">FPCT</a></th>
+						<th ><a title="守備位置">POS</a></th>
+						
+						
+					</tr>
+										                    	                                                					                    	                                                
+											<tr>
+						<td align="center">2016</td>
+						<td align="center">Lamigo</td>
+						<td align="center">2</td>
+						<td align="center">6</td>
+						<td align="center">4</td>
+						<td align="center">1</td>
+						<td align="center">1</td>
+						<td align="center">0</td>
+						<td align="center">0</td>
+                        						<td align="center">0.833</td>
+                                                <td align="center"><a href="#df_2016_A02" class="fancybox">詳細</a></td>
+                        					</tr>
+
+						
+                                                					                    	                                                
+											<tr>
+						<td align="center">2017</td>
+						<td align="center">Lamigo</td>
+						<td align="center">3</td>
+						<td align="center">10</td>
+						<td align="center">8</td>
+						<td align="center">2</td>
+						<td align="center">0</td>
+						<td align="center">2</td>
+						<td align="center">0</td>
+                        						<td align="center">1.000</td>
+                                                <td align="center"><a href="#df_2017_A02" class="fancybox">詳細</a></td>
+                        					</tr>
+
+						
+                                                										
+					                     
+											<tr>
+						<td align="center">TOTAL</td>
+						<td align="center"></td>
+						<td align="center">5</td>
+						<td align="center">16</td>
+						<td align="center">12</td>
+						<td align="center">3</td>
+						<td align="center">1</td>
+						<td align="center">2</td>
+						<td align="center">0</td>
+                        						<td align="center">0.938</td>
+                                                <td align="center">&nbsp;</td>
+                        					</tr>
+
+					                    
+										
+										
+					<tr>
+						<td align="center">二軍成績</td>
+						<td align="center" colspan="14"></td>
+					</tr>					
+					
+											                                                											                        											<tr>
+						<td align="center">2016</td>
+						<td align="center">Lamigo二軍</td>
+						<td align="center">16</td>
+						<td align="center">125</td>
+						<td align="center">115</td>
+						<td align="center">10</td>
+						<td align="center">0</td>
+						<td align="center">13</td>
+						<td align="center">0</td>
+                        						<td align="center">1.000</td>
+                        						<td align="center"><a href="#df_2016_04_AA1" class="fancybox">詳細</a></td>
+                        					</tr>
+
+                                                										
+					                     
+											<tr>
+						<td align="center">TOTAL</td>
+						<td align="center"></td>
+						<td align="center">17</td>
+						<td align="center">125</td>
+						<td align="center">115</td>
+						<td align="center">10</td>
+						<td align="center">0</td>
+						<td align="center">13</td>
+						<td align="center">0</td>
+                        						<td align="center">1.000</td>
+                                                <td align="center">&nbsp;</td>
+                        					</tr>
+
+					                    
+					
+				</table>
+			</div>
+			<!-- gap_b20 -->
+			<!-- 守備 end -->
+			
+			<!--	hide 守備	-->
+            <!--  一軍  -->
+							               							                    				               												
+						<div id='df_2016_A02' style="display:none;" >
+						<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x">
+							<tr>
+								<th >YEAR</th>
+								<th ><a title="球隊">TEAM</a></th>
+								<th ><a href="#" rel="pos" title="守備位置">POS</a></th>
+								<th ><a href="#" rel="g" title="出賽數">G</a></th>
+								<th ><a href="#" rel="tc" title="守備機會">TC</a></th>
+								<th ><a href="#" rel="po" title="刺殺">PO</a></th>
+								<th ><a href="#" rel="asi" title="助殺">A</a></th>
+								<th ><a href="#" rel="er" title="失誤">E</a></th>
+								
+								<th ><a href="#" rel="dp" title="雙殺">DP</a></th>
+								<th ><a href="#" rel="tp" title="三殺">TP</a></th>
+																<th ><a href="#" rel="fpct" title="守備率=(刺殺+助殺)/(刺殺+助殺+失誤)">FPCT</a></th>
+										
+							</tr>						
+					
+												
+															
+								<tr>
+									<td align="center">2016</td>
+									<td align="center">Lamigo</td>
+									<td align="center">1B</td>
+									<td align="center">1</td>
+									<td align="center">4</td>
+									<td align="center">4</td>
+									<td align="center">0</td>
+									<td align="center">0</td>
+									
+									<td align="center">0</td>
+									<td align="center">0</td>
+                                    									<td align="center">1.000</td>
+								</tr>
+
+														
+												
+															
+								<tr>
+									<td align="center">2016</td>
+									<td align="center">Lamigo</td>
+									<td align="center">3B</td>
+									<td align="center">1</td>
+									<td align="center">2</td>
+									<td align="center">0</td>
+									<td align="center">1</td>
+									<td align="center">1</td>
+									
+									<td align="center">0</td>
+									<td align="center">0</td>
+                                    									<td align="center">0.500</td>
+								</tr>
+
+														
+												
+														
+																
+						</table>
+						</div>
+						
+					                    				               												
+						<div id='df_2017_A02' style="display:none;" >
+						<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x">
+							<tr>
+								<th >YEAR</th>
+								<th ><a title="球隊">TEAM</a></th>
+								<th ><a href="#" rel="pos" title="守備位置">POS</a></th>
+								<th ><a href="#" rel="g" title="出賽數">G</a></th>
+								<th ><a href="#" rel="tc" title="守備機會">TC</a></th>
+								<th ><a href="#" rel="po" title="刺殺">PO</a></th>
+								<th ><a href="#" rel="asi" title="助殺">A</a></th>
+								<th ><a href="#" rel="er" title="失誤">E</a></th>
+								
+								<th ><a href="#" rel="dp" title="雙殺">DP</a></th>
+								<th ><a href="#" rel="tp" title="三殺">TP</a></th>
+																<th ><a href="#" rel="fpct" title="守備率=(刺殺+助殺)/(刺殺+助殺+失誤)">FPCT</a></th>
+										
+							</tr>						
+					
+												
+															
+								<tr>
+									<td align="center">2017</td>
+									<td align="center">Lamigo</td>
+									<td align="center">1B</td>
+									<td align="center">3</td>
+									<td align="center">10</td>
+									<td align="center">8</td>
+									<td align="center">2</td>
+									<td align="center">0</td>
+									
+									<td align="center">2</td>
+									<td align="center">0</td>
+                                    									<td align="center">1.000</td>
+								</tr>
+
+														
+												
+														
+																
+						</table>
+						</div>
+						
+					                    							            <!--  二軍  -->
+            				               												                               												
+						<div id='df_2016_04_AA1' style="display:none;" >
+						<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x">
+							<tr>
+								<th >YEAR</th>
+								<th ><a title="球隊">TEAM</a></th>
+								<th ><a href="#" rel="pos" title="守備位置">POS</a></th>
+								<th ><a href="#" rel="g" title="出賽數">G</a></th>
+								<th ><a href="#" rel="tc" title="守備機會">TC</a></th>
+								<th ><a href="#" rel="po" title="刺殺">PO</a></th>
+								<th ><a href="#" rel="asi" title="助殺">A</a></th>
+								<th ><a href="#" rel="er" title="失誤">E</a></th>
+								
+								<th ><a href="#" rel="dp" title="雙殺">DP</a></th>
+								<th ><a href="#" rel="tp" title="三殺">TP</a></th>
+																<th ><a href="#" rel="fpct" title="守備率=(刺殺+助殺)/(刺殺+助殺+失誤)">FPCT</a></th>
+										
+							</tr>						
+					
+												
+															
+								<tr>
+									<td align="center">2016</td>
+									<td align="center">Lamigo二軍</td>
+									<td align="center">SS</td>
+									<td align="center">1</td>
+									<td align="center">0</td>
+									<td align="center">0</td>
+									<td align="center">0</td>
+									<td align="center">0</td>
+									
+									<td align="center">0</td>
+									<td align="center">0</td>
+																		<td align="center">0.000</td>
+								</tr>
+
+														
+												
+															
+								<tr>
+									<td align="center">2016</td>
+									<td align="center">Lamigo二軍</td>
+									<td align="center">1B</td>
+									<td align="center">15</td>
+									<td align="center">121</td>
+									<td align="center">114</td>
+									<td align="center">7</td>
+									<td align="center">0</td>
+									
+									<td align="center">13</td>
+									<td align="center">0</td>
+																		<td align="center">1.000</td>
+								</tr>
+
+														
+												
+															
+								<tr>
+									<td align="center">2016</td>
+									<td align="center">Lamigo二軍</td>
+									<td align="center">3B</td>
+									<td align="center">1</td>
+									<td align="center">4</td>
+									<td align="center">1</td>
+									<td align="center">3</td>
+									<td align="center">0</td>
+									
+									<td align="center">0</td>
+									<td align="center">0</td>
+																		<td align="center">1.000</td>
+								</tr>
+
+														
+												
+														
+																
+						</table>
+						</div>
+						
+										                						
+			
+			<!-- 對戰 start -->
+			<h3 class="td_switch left">對戰成績</h3>
+			<div class="td_switch right">
+				<!--
+				<a href="#"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_left_w.png" width="22" height="22" align="absmiddle" /></a>
+				<a href="#"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_right.png" width="22" height="22" align="absmiddle" /></a>
+				-->
+
+				<a id="data_left_b" href="javascript:void(0)" onclick="display_left_b(2,1)" ><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_left_w.png" width="22" height="22" align="absmiddle" /></a>
+				<a id="data_right_b"  href="javascript:void(0)"  onclick="display_right_b(2,1)" ><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow5_right.png" width="22" height="22" align="absmiddle" /></a>						
+				
+				
+			</div>
+			<div class="td_switch right">
+				<form>
+					<select class="box_select" id="syear" onChange="top.location.href='/players/person.html?player_id=k442&teamno=&syear=' + $('#syear option:selected').val();">
+						<option value="" selected>生涯累計</option>
+												<option value="2017"  >2017</option>												<option value="2016"  >2016</option>																							</select>
+				</form>
+			</div>
+			<div class="clean"></div>
+			
+			<!-- 打擊 & 投手 start -->
+						
+				<!--	打擊 對戰成績 -->
+
+				<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x">
+					<tr>
+						<th width="100" align="center"><a href="#">TEAM</a></th>
+						<th title="出賽數"	class="display_b1" width="50" align="center"><a href="#">G</a></th>
+						<th title="打席"	class="display_b1" align="center" style="display:table-cell;"><a href="#">PA</a></th>
+						<th title="打數"	class="display_b1" align="center" style="display:table-cell;"><a href="#">AB</a></th>
+						<th title="打點"	class="display_b1" align="center" style="display:table-cell;"><a href="#">RBI</a></th>
+						<th title="得分"	class="display_b1" align="center" style="display:table-cell;"><a href="#">R</a></th>
+						<th title="安打"	class="display_b1" align="center" style="display:table-cell;"><a href="#">H</a></th>
+						<th title="一壘安打"	class="display_b1" align="center" style="display:table-cell;"><a href="#">1B</a></th>
+						<th title="二壘安打"	class="display_b1" align="center" style="display:table-cell;"><a href="#">2B</a></th>
+						<th title="三壘安打"	class="display_b1" align="center" style="display:table-cell;"><a href="#">3B</a></th>
+						<th title="全壘打"	class="display_b1" align="center" style="display:table-cell;"><a href="#">HR</a></th>
+						<th title="壘打數"	class="display_b1" align="center" style="display:table-cell;"><a href="#">TB</a></th>
+						<th title="雙殺打"	class="display_b1" align="center" style="display:table-cell;"><a href="#">GIDP</a></th>
+						<th title="打擊率=安打/打數"	class="display_b1" align="center" style="display:table-cell;"><a href="#">AVG</a></th>
+						
+						
+						<th title="犧牲短打"	class="display_b2" align="center" style="display:none;"><a href="#">SAC</a></th>
+						<th title="犧牲飛球"	class="display_b2" align="center" style="display:none;"><a href="#">SF</a></th>
+						<th title="四壞球"	class="display_b2" align="center" style="display:none;"><a href="#">BB</a></th>
+						<th title="故意四壞"	class="display_b2" align="center" style="display:none;"><a href="#">IBB</a></th>
+						<th title="死球"	class="display_b2" align="center" style="display:none;"><a href="#">HBP</a></th>
+						<th title="被三振"	class="display_b2" align="center" style="display:none;"><a href="#">SO</a></th>
+						<th title="盜壘"	class="display_b2" align="center" style="display:none;"><a href="#">SB</a></th>
+						<th title="盜壘刺"	class="display_b2" align="center" style="display:none;"><a href="#">CS</a></th>
+						<th title="盜壘率=盜壘/(盜壘+盜壘刺)"	class="display_b2" align="center" style="display:none;"><a href="#">SB%</a></th>
+						<th title="上壘率=(安打+四死球)/(打數+四死球+犧牲飛球)"	class="display_b2" align="center" style="display:none;"><a href="#">OBP</a></th>
+						<th title="長打數=壘打數/打數"	class="display_b2" align="center" style="display:none;"><a href="#">SLG</a></th>
+						<th title="攻擊指數=(壘打數+盜壘+四死球)/(打數-安打+盜壘刺+雙殺打)"	class="display_b2" align="center" style="display:none;"><a href="#">TA</a></th>
+						<th title="銀棒指數=打擊率*1000+全壘打*20+打點*5+壘打數"	class="display_b2" align="center" style="display:none;"><a href="#">SSA</a></th>
+					</tr>
+					
+															<tr>
+						<td width="100" align="center">中信兄弟</td>
+						<td	class="display_b1" width="50" align="center">11</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">22</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">21</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">2</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">1</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">5</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">4</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">1</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">6</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">2</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0.238</td>
+
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">1</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">2</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0.273</td>
+						<td	class="display_b2" align="center" style="display:none;">0.286</td>
+						<td	class="display_b2" align="center" style="display:none;">0.389</td>
+						<td	class="display_b2" align="center" style="display:none;">254</td>
+					</tr>
+										<tr>
+						<td width="100" align="center">富邦</td>
+						<td	class="display_b1" width="50" align="center">8</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">17</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">17</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">3</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">5</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">3</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">2</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">7</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0.294</td>
+
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">3</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0.294</td>
+						<td	class="display_b2" align="center" style="display:none;">0.412</td>
+						<td	class="display_b2" align="center" style="display:none;">0.583</td>
+						<td	class="display_b2" align="center" style="display:none;">316</td>
+					</tr>
+										<tr>
+						<td width="100" align="center">義大</td>
+						<td	class="display_b1" width="50" align="center">6</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">18</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">17</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">4</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">3</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">4</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">4</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">4</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0.235</td>
+
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">1</td>
+						<td	class="display_b2" align="center" style="display:none;">2</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0.278</td>
+						<td	class="display_b2" align="center" style="display:none;">0.235</td>
+						<td	class="display_b2" align="center" style="display:none;">0.385</td>
+						<td	class="display_b2" align="center" style="display:none;">259</td>
+					</tr>
+										<tr>
+						<td width="100" align="center">統一7-ELEVEn</td>
+						<td	class="display_b1" width="50" align="center">9</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">19</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">16</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">2</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">2</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">7</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">6</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">1</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">8</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">1</td>
+						<td	class="display_b1" align="center" style="display:table-cell;">0.438</td>
+
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">2</td>
+						<td	class="display_b2" align="center" style="display:none;">1</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">2</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0</td>
+						<td	class="display_b2" align="center" style="display:none;">0.526</td>
+						<td	class="display_b2" align="center" style="display:none;">0.500</td>
+						<td	class="display_b2" align="center" style="display:none;">1.100</td>
+						<td	class="display_b2" align="center" style="display:none;">456</td>
+					</tr>
+														</table>
+				
+						
+			
+			<!-- 對戰 end -->
+
+			
+			<!-- 單場最高成績 start -->
+			<h3 class="gap_t20">單場最高成績</h3>
+			
+						
+				<table width="100%" cellspacing="0" cellpadding="0" border="0" class="std_tb mix_x  gap_b20">
+					<tr>
+						<th align="center">PA</th>
+						<th align="center">RBI</th>
+						<th align="center">R</th>
+						<th align="center">H</th>
+						<th align="center">2B</th>
+						<th align="center">3B</th>
+						<th align="center">HR</th>
+						<th align="center">TB</th>
+						<th align="center">BB</th>
+						<th align="center">IBB</th>
+						<th align="center">HBP</th>
+						<th align="center">SO</th>
+						<th align="center">SB</th>
+					</tr>
+					<tr>
+						<td align="center">5</td>
+						<td align="center">2</td>
+						<td align="center">2</td>
+						<td align="center">2</td>
+						<td align="center">1</td>
+						<td align="center">0</td>
+						<td align="center">0</td>
+						<td align="center">3</td>
+						<td align="center">1</td>
+						<td align="center">1</td>
+						<td align="center">1</td>
+						<td align="center">2</td>
+						<td align="center">0</td>
+					</tr>
+				</table>			
+			
+						
+
+			<!-- 單場最高成績 end -->
+
+		</div>
+		<!-- gap_b20 -->
+		<!-- 內容 end -->
+	</div>
+	<!-- cont_single -->
+</div>
+<!-- cont -->
+</div><!-- cont_bk -->
+<!-- footer start -->
+<!-- footer start -->
+<div class="footer">
+  <div class="footer_cont">
+  
+  <div class="footer_logo"><a href="/cpbl/index/"><img src="http://cpbl-elta.cdn.hinet.net/web/images/logo.png" width="74" height="34" align="absmiddle" /></a></div>
+  <div class="footer_line"></div>
+  <div class="footer_team">
+    <a href="/web/team_brief.php?&team=E02"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_brothers2.png" width="38" height="30" align="absmiddle" /></a>
+    <a href="/web/team_brief.php?&team=L01"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_lion2.png" width="38" height="30" align="absmiddle" /></a>
+    <a href="/web/team_brief.php?&team=A02"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_lamigo2.png" width="38" height="30" align="absmiddle" /></a>
+    <a href="/web/team_brief.php?&team=B04"><img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_Guardians.png" width="33" height="28" align="absmiddle" /></a>
+  </div>
+  <div class="footer_line"></div>
+  <div class="footer_nav">
+    <a href="/footer/about/" class="footer_link">關於中職</a>
+    <a href="/footer/stadium/" class="footer_link">球場介紹</a>
+    <a href="/footer/rule/" class="footer_link">棒球規則</a>
+    <a href="/footer/contact/" class="footer_link">聯絡我們</a>
+    <a href="/footer/sitemap/" class="footer_link">網站導覽</a>
+    <a href="/eng/history/" class="footer_link">Eng</a>
+    <a href="http://winter.cpbl.com.tw/" target="_blank" class="footer_link">冬季聯盟</a>
+  </div>
+  
+  </div><!-- footer_cont -->
+  <div class="copyright">Copyright &copy;2015 Chinese Professional Baseball League.All rights reserved.</div>
+</div><!-- footer -->
+<!-- footer end -->
+
+<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-48754261-1', 'cpbl.com.tw');
+	ga('send', 'pageview');
+	
+</script>
+
+<!-- footer end -->
+
+<script>
+$(".fancybox").fancybox({
+	//'type'	: 'inline',
+	//'closeBtn'	: false,
+	'minWidth'	: 800,
+	'minHeight' : 60,
+});
+</script>
+
+
+</body>
+</html>
+

@@ -1,5 +1,8 @@
 package cpbl;
 
+import java.io.*;
+import java.util.Arrays;
+
 public class Library {
 	public static void main(String[] args) {
 		log(isNum("A123"));
@@ -24,7 +27,45 @@ public class Library {
 		return content.substring(begin, end).replaceAll(" ", "");
 	}
 	
-	private static void log(Object obj) {
+	public static void log(Object obj) {
 		System.out.println(obj.toString());
+	}
+	
+	public static void writeFile(File file, String content) {
+		try {
+			FileOutputStream fout = new FileOutputStream(file);
+			fout.write(new String("\uFEFF" + content).getBytes("UTF-8"));
+			fout.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}		
+	}
+	
+	public static String loadData(String f) {
+		try {
+			FileInputStream fin = new FileInputStream(f);
+			byte ba[] = new byte[fin.available()];
+			fin.read(ba);
+			String content = new String(ba, "UTF-8");
+			content = content.replace("\uFEFF", "");
+			fin.close();
+			return content;
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+	
+	public static String spliteToTab(String str, String split) {
+		String[] arr = str.split(split);
+		String s = foo2(arr, "\t");
+		return s;
+	}
+	
+	public static String foo2(String[] arr, String re) {
+		String s = Arrays.toString(arr);
+		s = s.replaceAll(", ", re);
+		s = s.substring(1, s.length() - 1);
+		return s;
 	}
 }

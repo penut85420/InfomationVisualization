@@ -10,25 +10,36 @@ public class Crawler {
 	final static String tableTagEnd = "<!-- 資料表格 end -->";
 	
 	public static void main(String[] args) throws Exception {
-		ArrayList<String> brother = getAvaliablePlayer("E02");
-		ArrayList<String> lamigo = getAvaliablePlayer("A02");		
-		
-		log("中信兄弟");
-		for (String s: brother) {
-			log(s);
-			getPlayerData(s);
-			Player p = new Player(loadPlayerData(s));
-			log(p);
-		}
-		
-		log("Lamigo桃猿");
-		for (String s: lamigo) {
-			getPlayerData(s);
-			Player p = new Player(loadPlayerData(s));
-			log(p);
-		}
-		
+ 		unitTest();
+//		Player p = new Player(loadPlayerData("A044"));
 		log("Crawler Done");
+	}
+	
+	private static void unitTest() {
+		ArrayList<String> brother = getAvaliablePlayer("E02");
+//		ArrayList<String> lamigo = getAvaliablePlayer("A02");		
+		String s = brother.get(0);
+		getPlayerData(s);
+		getFollowData(s);
+		Player p = new Player(loadPlayerData(s));
+		p.setFollowData(loadFollowData(s));
+		log(p);
+		
+//		log("中信兄弟");
+//		for (String s: brother) {
+//			getPlayerData(s);
+//			getFollowData(s);
+//			Player p = new Player(loadPlayerData(s));
+//			p.setFollowData(loadFollowData(s));
+//			log(p);
+//		}
+		
+//		log("Lamigo桃猿");
+//		for (String s: lamigo) {
+//			getPlayerData(s);
+//			Player p = new Player(loadPlayerData(s));
+//			log(p);
+//		}
 	}
 	
 	private static void log(Object obj) {
@@ -39,7 +50,7 @@ public class Crawler {
 		ArrayList<String> playerNo = new ArrayList<>();
 		for (int offset = 0; ; offset += 20) {
 			crawler("http://www.cpbl.com.tw/players.html?&status=1&teamno=" + id + "&offset=" + offset, "data\\aval.txt");
-			String data = loadData("data\\aval.txt");
+			String data = Library.loadData("data\\aval.txt");
 			int begin = data.indexOf(tableTagStart) + tableTagStart.length();
 			int end = data.indexOf(tableTagEnd);
 			String[] s = data.substring(begin, end).split("player_id=");
@@ -54,19 +65,8 @@ public class Crawler {
 		return playerNo;
 	}
 	
-	private static String loadData(String f) {
-		try {
-			FileInputStream fin = new FileInputStream(f);
-			byte ba[] = new byte[fin.available()];
-			fin.read(ba);
-			String content = new String(ba, "UTF-8");
-			content = content.replace("\uFEFF", "");
-			fin.close();
-			return content;
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		return null;
+	public static void getFollowData(String id) {
+		crawler("http://www.cpbl.com.tw/players/follow.html?player_id=" + id, "data\\follow" + id + ".txt");
 	}
 
 	public static void getPlayerData(String id) {
@@ -85,7 +85,11 @@ public class Crawler {
 		}
 	}
 	
+	public static String loadFollowData(String id) {
+		return Library.loadData("data\\follow" + id + ".txt");
+	}
+	
 	public static String loadPlayerData(String id) {
-		return loadData("data\\" + id + ".txt");
+		return Library.loadData("data\\" + id + ".txt");
 	}
 }

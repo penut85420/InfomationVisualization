@@ -3,3 +3,5 @@
 .metadata/
 .recommenders/
 *.jar
+*.exe
+*.txt

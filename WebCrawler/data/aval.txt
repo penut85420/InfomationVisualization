@@ -343,11 +343,11 @@ $(document).ready(function() {
 					</select>
 					<select class="date_select select_longer" id="steamno" onChange="top.location.href='/players.html?&offset=0&status=' + $('#sstatus option:selected').val() + '&teamno=' + this.value;">
 						<option value="" >不限球隊</option>
-												<option value="A02"  selected  >Lamigo</option>
+												<option value="A02"  >Lamigo</option>
 												<option value="AA1"  >Lamigo二軍</option>
 												<option value="T01"  >三商</option>
 												<option value="W01"  >中信</option>
-												<option value="E02"  >中信兄弟</option>
+												<option value="E02"  selected  >中信兄弟</option>
 												<option value="EE2"  >中信兄弟二軍</option>
 												<option value="Z25"  >中職聯隊</option>
 												<option value="z25"  >中職聯隊</option>
@@ -405,7 +405,7 @@ $(document).ready(function() {
 			<!-- gap_b20 -->
 			<!-- 資料表格 end -->
 			<!-- 分頁 start -->
-			<div class="page_bar">&nbsp;<a  class="page" href="/players.html?&status=1&teamno=A02&keyword=&amp;offset="> <img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow4_left.png" width="22" height="22" /> </a><a  class="page" href="/players.html?&status=1&teamno=A02&keyword=&amp;offset=">1</a> <a href="#" class="page"> 2 </a> </div>
+			<div class="page_bar">&nbsp;<a  class="page" href="/players.html?&status=1&teamno=E02&keyword=&amp;offset="> <img src="http://cpbl-elta.cdn.hinet.net/web/images/icon_arrow4_left.png" width="22" height="22" /> </a><a  class="page" href="/players.html?&status=1&teamno=E02&keyword=&amp;offset=">1</a> <a href="#" class="page"> 2 </a> </div>
 			<!-- 分頁 end -->
 		</div>
 		<!-- gap_b20 -->
