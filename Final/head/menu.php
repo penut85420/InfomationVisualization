@@ -1,0 +1,9 @@
+<h1>Visual CPBL</h1>
+<div class="menu">
+	<a href="index.php">【首頁】</a>
+	<a href="team.php">【隊伍成績】</a>
+	<a href="avg.php">【打擊率】</a>
+	<a href="era.php">【防禦率】</a>
+	<a href="hit.php">【打擊數據】</a>
+	<a href="pitch.php">【投球數據】</a>
+</div><br/ >

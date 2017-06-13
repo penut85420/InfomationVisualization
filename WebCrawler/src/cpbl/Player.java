@@ -51,7 +51,7 @@ public class Player {
 			mType = "Hit";
 			content = getScroeTable(mOrginData, HitTableTag);
 		}
-		Library.writeFile(new File("data\\" + mType + mPlayerID + ".tsv"), content);
+		Library.writeFile(new File("data\\Person" + mType + "\\Person" + mType + mPlayerID + ".tsv"), content);
 	}
 	
 	public void setFollowData() {
@@ -66,7 +66,7 @@ public class Player {
 				arr[i] = s.substring(0, b) + "\t" + s.substring(b + 1, e) + s.substring(e + 1, s.length());
 		}
 		String t = Library.foo2(arr, "\r\n");
-		Library.writeFile(new File("data\\Follow" + mType + mPlayerID + ".tsv"), t.replaceAll("\r\n\r\n", "\r\n"));
+		Library.writeFile(new File("data\\Follow" + mType + "\\Follow" + mType + mPlayerID + ".tsv"), t.replaceAll("\r\n\r\n", "\r\n"));
 	}
 	
 	private String getScroeTable(String data, String tag) {

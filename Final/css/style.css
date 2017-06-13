@@ -1,0 +1,61 @@
+a, a:visited {
+	color: blue;
+	text-decoration: none;
+	text-align: center;
+}
+
+* {
+	font-family: 微軟正黑體, consolas
+}
+
+.menu {
+	text-align: center;
+}
+
+.index {
+	margin: 0px auto;
+	display: block;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+}
+
+iframe {
+	display: block;
+	border: none;
+	margin: 0px auto;
+	width: 1000px;
+	height: 560px;;
+}
+
+h1 {
+	color: green;
+	text-align: center;
+	size: 24px;
+}
+
+.select-style {
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.select-style select {
+	font-size: 16px;
+    padding: 5px 8px;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+	text-align: center;
+}
+
+.select-style select:focus {
+    outline: none;
+}
+
+.select-style option {
+	text-align: center;
+}

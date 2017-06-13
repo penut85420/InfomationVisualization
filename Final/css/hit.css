@@ -1,0 +1,15 @@
+.bar {
+  fill: steelblue;
+}
+
+.bar2 {
+  fill: lightgreen;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis--x path {
+  display: none;
+}
