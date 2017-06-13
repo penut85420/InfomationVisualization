@@ -2,11 +2,11 @@
 <html>
 <head>
     <?php include("head/head.php"); ?>
-    <script type="text/javascript" src="js/avg.js"></script>
+    <script type="text/javascript" src="js/era.js"></script>
 <body>
     <div class="select-style">
     隊伍：
-    <select id="team" onchange="changeTeam(value, 'Hitter')">
+    <select id="team" onchange="changeTeam(value, 'Pitcher')">
         <option value="brother">中信兄弟</option>
         <option value="lamigo">Lamigo桃猿</option>
         <option value="fubon">富邦悍將</option>

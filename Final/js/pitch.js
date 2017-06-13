@@ -6,7 +6,7 @@ var TeamID = {brother: "E02", lamigo: "A02", fubon: "B04", lion: "L01"};
 
 function change(id, type) {
 	if (type == undefined) type = document.getElementById("type").value;
-	d3.tsv("data/FollowHit/FollowHit" + id + ".tsv", function(d) {
+	d3.tsv("data/FollowPitch/FollowPitch" + id + ".tsv", function(d) {
 		d.date = parseTime(d.DATE);
 		d.data = d[type];
 		return d;
@@ -16,7 +16,7 @@ function change(id, type) {
 		svg.selectAll("#child").remove();
 
 		x.domain(d3.extent(data, function(d) { return d.date; }));
-		y.domain([0, 6]);
+		y.domain([0, d3.max(data, function(d) { return parseInt(d.BF); })]);
 
 		g.append("g")
 			.attr("id", "child")
@@ -26,6 +26,7 @@ function change(id, type) {
 			.select(".domain");
 
 		g.append("g")
+			.attr("id", "child")
 			.attr("class", "axis axis--y")
 			.call(d3.axisLeft(y))
 			.append("text")
@@ -41,9 +42,9 @@ function change(id, type) {
 			.attr("id", "child")
 			.attr("class", "bar2")
 			.attr("x", function(d) { return x(d.date); })
-			.attr("y", function(d) { return y(d.PA); })
+			.attr("y", function(d) { return y(d.BF); })
 			.attr("width", 10)
-			.attr("height", function(d) { return height - y(d.PA); });
+			.attr("height", function(d) { return height - y(d.BF); });
 
 		g.selectAll(".bar")
 			.data(data)
@@ -74,5 +75,5 @@ $(document).ready(function() {
 	g = svg.append("g")
 		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 	
-	changeTeam(document.getElementById("team").value, "Hitter");
+	changeTeam(document.getElementById("team").value, "Pitcher");
 });
