@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>打擊數據</title>
+    <title>球隊成績</title>
     <?php include("head/head.php"); ?>
 </head>
 <body>
     <?php include("head/menu.php"); ?>
-    <iframe src="pitch-chart.php"></iframe>
+	<iframe src="team-chart.php"></iframe>
 </body>
 </html>

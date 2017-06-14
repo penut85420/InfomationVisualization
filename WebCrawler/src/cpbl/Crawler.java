@@ -5,9 +5,14 @@ import java.net.*;
 import java.nio.channels.*;
 import java.util.*;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
 public class Crawler {
-	final static String tableTagStart = "<!-- 資料表格 start -->";
-	final static String tableTagEnd = "<!-- 資料表格 end -->";
+	final static String TableTagStart = "<!-- 資料表格 start -->";
+	final static String TableTagEnd = "<!-- 資料表格 end -->";
+	final static String TeamTagStart = "<!-- 戰績內容 start -->";
 	
 	final static String TeamBrother = "E02";
 	final static String TeamLamigo = "A02";
@@ -24,8 +29,38 @@ public class Crawler {
 	}
 	
 	private static void unitTest() {
-		for (String teamID: AllTeam)
-			getTeam(teamID);
+		parseTeamStanding(getTeamStanding());
+//		for (String teamID: AllTeam)
+//			getTeam(teamID);
+	}
+	
+	private static void parseTeamStanding(String data) {
+		Element table = Jsoup.parse(data.substring(data.indexOf(TeamTagStart))).select("table").get(0);
+		Elements title = table.select("th");
+		String str = Library.spliteToTab(title.text(), " ") + "\r\n";
+		Elements rows = table.select("tr");
+
+		for (Element row: rows) {
+			String tmp = Library.spliteToTab(row.select("td").text(), " ");
+		    str += tmp + "\r\n";
+		}
+		String[] dd = str.split("\r\n");
+		String sf = "";
+		for (String s: dd) {
+			if (s.trim().equals("")) continue;
+			String[] ss = s.split("\t");
+			for (int i = 0; i < ss.length; i++)  {
+				if (i >= 5 && i <= 10)
+					continue;
+				sf += ss[i]  + "\t";
+			}
+			sf += "\r\n";
+		}
+		sf = sf.replaceAll("-", "\t");
+		sf = sf.replaceAll("HOME", "HW\tHT\tHL");
+		sf = sf.replaceAll("AWAY", "AW\tAT\tAL");
+		sf = sf.replaceAll("L10", "L10W\tL10T\tL10L");
+		Library.writeFile("data\\TeamStanding.tsv", sf);
 	}
 	
 	private static void getTeam(String teamID) {
@@ -53,8 +88,8 @@ public class Crawler {
 		for (int offset = 0; ; offset += 20) {
 			goCraw("http://www.cpbl.com.tw/players.html?&status=1&teamno=" + id + "&offset=" + offset, tmp.getPath());
 			String data = Library.loadData("data\\aval.txt");
-			int begin = data.indexOf(tableTagStart) + tableTagStart.length();
-			int end = data.indexOf(tableTagEnd);
+			int begin = data.indexOf(TableTagStart) + TableTagStart.length();
+			int end = data.indexOf(TableTagEnd);
 			String[] s = data.substring(begin, end).split("player_id=");
 			if (s.length <= 1) break;
 				for (String ss: s) {
@@ -71,6 +106,11 @@ public class Crawler {
 	public static String getData(String type, String id) {
 		goCraw("http://www.cpbl.com.tw/players/" + type + ".html?player_id=" + id, "data\\" + type + id + ".txt");
 		return loadData(type, id);
+	}
+	
+	public static String getTeamStanding() {
+		goCraw("http://www.cpbl.com.tw/standing/season/", "data\\TeamStanding.txt");
+		return Library.loadData("data\\TeamStanding.txt");
 	}
 	
 	private static void goCraw(String url, String file) {

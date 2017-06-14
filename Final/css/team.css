@@ -1,0 +1,26 @@
+.arc text {
+	font: 18px 微軟正黑體;
+	font-weight: 900;
+	text-anchor: middle;
+	transition: all 0.1s linear;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.arc text:hover {
+	font: 24px 微軟正黑體;
+	font-weight: 900;
+	transition-delay: 0s;
+	text-anchor: middle;
+}
+
+.arc path {
+	stroke: #333;
+	stroke-width: 1.5px;
+	transition: fill 250ms linear;
+	transition-delay: 150ms;
+}
+
+.arc path:hover {
+	stroke: #000;
+	transition-delay: 0;
+}
