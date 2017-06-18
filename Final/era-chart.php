@@ -16,7 +16,7 @@
     <select id="member" onchange="change(value)">
     </select>
     場數：
-    <select id="displayNum">
+    <select id="displayNum" onchange="change()">
         <option value="all">本季</option>
         <option value="10">最近十場</option>
         <option value="5">最近五場</option>

@@ -9,18 +9,21 @@ var TeamBrother = "E02",
 
 var TeamID = {brother: "E02", lamigo: "A02", fubon: "B04", lion: "L01"};
 
-function change(value) {
+function change(value, games) {
+	value = document.getElementById("member").value;
+	games = document.getElementById("displayNum").value;
 	svg.selectAll("#C").remove();
+
+	games = parseInt(games);
+	if (games == undefined) games = 365;
 
 	d3.tsv("data/FollowHit/FollowHit" + value + ".tsv", function(d) {
 		d.date = parseTime(d.DATE);
 		d.close = +d.AVG;
+		if (games-- <= 0) return undefined;
 		return d;
 	}, function(error, data) {
-		if (error) {
-			console.log(error);
-			throw error;
-		}
+		if (error) throw error;
 
 		x.domain(d3.extent(data, function(d) { return d.date; }));
 		y.domain([0, 0.6]);
